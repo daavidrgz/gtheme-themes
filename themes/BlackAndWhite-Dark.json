@@ -11,8 +11,8 @@
 		"selection-background": "ffffff",
 		"selection-foreground": "000000",
 
-		"black": "000000",
-		"black-hg": "000000",
+		"black": "ffffff",
+		"black-hg": "ffffff",
 
 		"red": "ffffff",
 		"red-hg": "ffffff",

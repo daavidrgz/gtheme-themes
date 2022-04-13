@@ -4,6 +4,8 @@
 <summary><strong>&nbsp;O V E R V I E W &nbsp;👁️‍🗨️</strong></summary>
 
 A collection of more than 350 color themes featuring the most famous ones like **Nord**, **Dracula**, **Gruvbox**, and many more.
+
+See [Gtheme-Desktops](https://github.com/daavidrgz/gtheme-desktops) for detailed screenshots.
 </details>
 
 #

@@ -1,8 +1,8 @@
 {
 	"name": "Github",
 	"extras": {
-		"vscode": [""],
-		"wallpaper": [""]
+		"vscode": ["GitHub Plus"],
+		"wallpaper": ["~/.config/gtheme/wallpapers/GitHub/github.jpg"]
 	},
 	"colors": {
 		"background": "f4f4f4",

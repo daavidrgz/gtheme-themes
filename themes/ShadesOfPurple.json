@@ -1,0 +1,39 @@
+{
+	"name": "ShadesOfPurple",
+	"extras": {
+		"intellij-idea": [""],
+		"vscode": ["Shades of Purple"],
+		"wallpaper": ["~/.config/gtheme/wallpapers/purple-triangles.jpg"]
+	},
+	"colors": {
+		"background": "2D2B55",
+		"foreground": "cec5ff",
+		"cursor": "cec5ff",
+		"selection-background": "cec5ff",
+		"selection-foreground": "2D2B55",
+
+		"black": "808080",
+		"black-hg": "808080",
+
+		"red": "FD618B",
+		"red-hg": "FD618B",
+
+		"green": "99EA89",
+		"green-hg": "99EA89",
+
+		"yellow": "F8CE00",
+		"yellow-hg": "F8CE00",
+
+		"blue": "B261FD",
+		"blue-hg": "B261FD",
+
+		"magenta": "F993FD",
+		"magenta-hg": "F993FD",
+
+		"cyan": "89D9E0",
+		"cyan-hg": "89D9E0",
+
+		"white": "c7c7c7",
+		"white-hg": "c7c7c7"
+	}
+}

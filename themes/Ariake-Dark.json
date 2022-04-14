@@ -3,7 +3,7 @@
 	"extras": {
 		"intellij-idea": [""],
 		"vscode": ["Ariake Dark"],
-		"wallpaper": ["~/.config/gtheme/wallpapers/water-paint.jpg"]
+		"wallpaper": [""]
 	},
 	"colors": {
 		"background": "1F212A",

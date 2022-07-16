@@ -1,0 +1,28 @@
+name = 'Guttersloblightwhite'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '808080'
+black-hg = '9c9c9c'
+blue = '809bc4'
+blue-hg = '567cb0'
+cursor = 'ffffff'
+cyan = '82adad'
+cyan-hg = '4e848a'
+foreground = 'ffffff'
+green = '8da862'
+green-hg = '4b7508'
+magenta = 'aa88b2'
+magenta-hg = '964e8f'
+red = 'c48980'
+red-hg = 'a15048'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'bfbfbf'
+white-hg = '9c9c9c'
+yellow = 'b29b7a'
+yellow-hg = '916f27'

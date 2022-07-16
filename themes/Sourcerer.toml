@@ -1,0 +1,28 @@
+name = 'Sourcerer'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222222'
+black = '111111'
+black-hg = '181818'
+blue = '6688aa'
+blue-hg = '90b0d1'
+cursor = 'c2c2b0'
+cyan = '528b8b'
+cyan-hg = '87ceeb'
+foreground = 'c2c2b0'
+green = '719611'
+green-hg = 'b1d631'
+magenta = '8f6f8f'
+magenta-hg = '8181a6'
+red = 'aa4450'
+red-hg = 'ff6a6a'
+selection-background = 'c2c2b0'
+selection-foreground = 'c2c2b0'
+white = 'd3d3d3'
+white-hg = 'c1cdc1'
+yellow = 'cc8800'
+yellow-hg = 'ff9800'

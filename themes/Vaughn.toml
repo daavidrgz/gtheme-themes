@@ -1,0 +1,28 @@
+name = 'Vaughn'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '25234e'
+black = '24234f'
+black-hg = '709080'
+blue = '5454ff'
+blue-hg = '5454ff'
+cursor = 'ff5555'
+cyan = '8cd0d3'
+cyan-hg = '93e0e3'
+foreground = 'dcdccc'
+green = '60b48a'
+green-hg = '60b48a'
+magenta = 'f08cc3'
+magenta-hg = 'ec93d3'
+red = '705050'
+red-hg = 'dca3a3'
+selection-background = 'b5d5ff'
+selection-foreground = '25234e'
+white = '709080'
+white-hg = 'ffffff'
+yellow = 'dfaf8f'
+yellow-hg = 'f0dfaf'

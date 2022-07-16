@@ -1,0 +1,28 @@
+name = 'Batman'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1d1e'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '737074'
+blue-hg = '909495'
+cursor = 'fcee0b'
+cyan = '615f5e'
+cyan-hg = 'a2a2a5'
+foreground = '6e6e6e'
+green = 'c8be46'
+green-hg = 'fff27c'
+magenta = '737271'
+magenta-hg = '9a999d'
+red = 'e6db43'
+red-hg = 'fff68d'
+selection-background = '4d4f4c'
+selection-foreground = '1b1d1e'
+white = 'c5c5be'
+white-hg = 'dadad5'
+yellow = 'f3fd21'
+yellow-hg = 'feed6c'

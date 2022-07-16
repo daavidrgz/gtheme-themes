@@ -1,0 +1,28 @@
+name = 'Google-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '1d1f21'
+black-hg = '969896'
+blue = '3971ED'
+blue-hg = '3971ED'
+cursor = '373b41'
+cyan = '3971ED'
+cyan-hg = '3971ED'
+foreground = '373b41'
+green = '198844'
+green-hg = '198844'
+magenta = 'A36AC7'
+magenta-hg = 'A36AC7'
+red = 'CC342B'
+red-hg = 'CC342B'
+selection-background = '373b41'
+selection-foreground = 'ffffff'
+white = 'c5c8c6'
+white-hg = 'ffffff'
+yellow = 'FBA922'
+yellow-hg = 'FBA922'

@@ -1,0 +1,28 @@
+name = 'FishTank'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222436'
+black = '03063c'
+black-hg = '6c5a30'
+blue = '525fb8'
+blue-hg = 'b1bdf9'
+cursor = 'fdcd5e'
+cyan = '968662'
+cyan-hg = 'a4bc86'
+foreground = 'eceffd'
+green = 'abf157'
+green-hg = 'daffa8'
+magenta = '976f81'
+magenta-hg = 'fda4cc'
+red = 'c60049'
+red-hg = 'd94a8a'
+selection-background = 'fcf6e8'
+selection-foreground = '222436'
+white = 'eceffc'
+white-hg = 'f6ffec'
+yellow = 'fdcd5e'
+yellow-hg = 'fee6a8'

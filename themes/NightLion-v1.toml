@@ -1,0 +1,28 @@
+name = 'NightLion-v1'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '4c4c4c'
+black-hg = '545454'
+blue = '266ad7'
+blue-hg = '5555ff'
+cursor = 'bbbbbb'
+cyan = '00d9df'
+cyan-hg = '55ffff'
+foreground = 'bbbbbb'
+green = '5ede8f'
+green-hg = '55ff55'
+magenta = 'bb00bb'
+magenta-hg = 'ff55ff'
+red = 'bb0000'
+red-hg = 'ff5555'
+selection-background = 'b4d5ff'
+selection-foreground = '000000'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = 'f2f067'
+yellow-hg = 'ffff55'

@@ -1,0 +1,28 @@
+name = 'Kitty'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '767676'
+blue = '0d73cc'
+blue-hg = '1a8fff'
+cursor = 'dddddd'
+cyan = '0dcdcd'
+cyan-hg = '14ffff'
+foreground = 'dddddd'
+green = '19cb00'
+green-hg = '23fd00'
+magenta = 'cb1ed1'
+magenta-hg = 'fd28ff'
+red = 'cc0403'
+red-hg = 'f2201f'
+selection-background = 'dddddd'
+selection-foreground = '000000'
+white = 'dddddd'
+white-hg = 'ffffff'
+yellow = 'cecb00'
+yellow-hg = 'fffd00'

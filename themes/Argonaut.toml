@@ -1,0 +1,28 @@
+name = 'Argonaut'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0d0f18'
+black = '222222'
+black-hg = '444444'
+blue = '008df8'
+blue-hg = '0092ff'
+cursor = 'ff0017'
+cyan = '00d7eb'
+cyan-hg = '67ffef'
+foreground = 'fffaf3'
+green = '8ce00a'
+green-hg = 'abe05a'
+magenta = '6c43a5'
+magenta-hg = '9a5feb'
+red = 'ff000f'
+red-hg = 'ff273f'
+selection-background = '002a3a'
+selection-foreground = '0d0f18'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'ffb900'
+yellow-hg = 'ffd141'

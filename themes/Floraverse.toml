@@ -1,0 +1,28 @@
+name = 'Floraverse'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0e0c15'
+black = '08002e'
+black-hg = '331d4c'
+blue = '1d6da1'
+blue-hg = '40a4cf'
+cursor = 'bbbbbb'
+cyan = '42a38c'
+cyan-hg = '62caa8'
+foreground = 'dbd0b9'
+green = '5d731a'
+green-hg = 'b3ce58'
+magenta = 'b7077e'
+magenta-hg = 'f02aae'
+red = '64002c'
+red-hg = 'cf2062'
+selection-background = 'f3e0b8'
+selection-foreground = '0e0c15'
+white = 'f3e0b8'
+white-hg = 'fff5db'
+yellow = 'cd751c'
+yellow-hg = 'fac357'

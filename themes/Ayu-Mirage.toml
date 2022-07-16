@@ -1,0 +1,28 @@
+name = 'Ayu-Mirage'
+
+[extras]
+vscode = ['Ayu Mirage']
+wallpaper = ['']
+
+[colors]
+background = '212733'
+black = '191e2a'
+black-hg = '686868'
+blue = '6dcbfa'
+blue-hg = '73d0ff'
+cursor = 'ffcc66'
+cyan = '90e1c6'
+cyan-hg = '95e6cb'
+foreground = 'd9d7ce'
+green = 'a6cc70'
+green-hg = 'bae67e'
+magenta = 'cfbafa'
+magenta-hg = 'd4bfff'
+red = 'ed8274'
+red-hg = 'f28779'
+selection-background = '343f4c'
+selection-foreground = '212733'
+white = 'c7c7c7'
+white-hg = 'ffffff'
+yellow = 'fad07b'
+yellow-hg = 'ffd580'

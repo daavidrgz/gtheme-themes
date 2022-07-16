@@ -1,0 +1,28 @@
+name = 'IC-Orange-PPL'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '262626'
+black = '000000'
+black-hg = '6a4e29'
+blue = 'bd6c00'
+blue-hg = 'ffbd54'
+cursor = 'fb521c'
+cyan = 'f79400'
+cyan-hg = 'c59752'
+foreground = 'ffcb83'
+green = 'a3a900'
+green-hg = 'f6ff3f'
+magenta = 'fb5d00'
+magenta-hg = 'fc874f'
+red = 'c03900'
+red-hg = 'ff8b67'
+selection-background = 'c03f1f'
+selection-foreground = '262626'
+white = 'ffc88a'
+white-hg = 'f9f9fe'
+yellow = 'caae00'
+yellow-hg = 'ffe36e'

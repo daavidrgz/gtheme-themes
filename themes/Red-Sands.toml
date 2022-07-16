@@ -1,0 +1,28 @@
+name = 'Red-Sands'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '79241d'
+black = '000000'
+black-hg = '545454'
+blue = '0071ff'
+blue-hg = '0071ae'
+cursor = 'ffffff'
+cyan = '00baba'
+cyan-hg = '54ffff'
+foreground = 'd6c8a7'
+green = '00ba00'
+green-hg = '00ba00'
+magenta = 'ba00ba'
+magenta-hg = 'ff54ff'
+red = 'ff3e00'
+red-hg = 'ba0000'
+selection-background = 'a4a390'
+selection-foreground = '79241d'
+white = 'bababa'
+white-hg = 'ffffff'
+yellow = 'e6af00'
+yellow-hg = 'e6af00'

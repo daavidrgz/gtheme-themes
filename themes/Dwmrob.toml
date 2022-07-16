@@ -1,0 +1,28 @@
+name = 'Dwmrob'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '151515'
+black-hg = '505450'
+blue = '4a5463'
+blue-hg = '7d8794'
+cursor = 'ffffff'
+cyan = '88aadd'
+cyan-hg = '99ccff'
+foreground = 'ffffff'
+green = '97b26b'
+green-hg = 'c5f779'
+magenta = '9c3885'
+magenta-hg = 'e628ba'
+red = 'bf7979'
+red-hg = 'f4a45f'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'ffffff'
+white-hg = 'dedede'
+yellow = 'cdcda1'
+yellow-hg = 'ffffaf'

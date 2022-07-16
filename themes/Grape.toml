@@ -1,0 +1,28 @@
+name = 'Grape'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '161423'
+black = '2d283e'
+black-hg = '58506a'
+blue = '487cf4'
+blue-hg = 'a9bbeb'
+cursor = 'a188f7'
+cyan = '3added'
+cyan-hg = '9ce3ea'
+foreground = '9e9ea0'
+green = '1fa91b'
+green-hg = '52a95d'
+magenta = '8c35c8'
+magenta-hg = 'ac81c1'
+red = 'ec2160'
+red-hg = 'f0719a'
+selection-background = '483d70'
+selection-foreground = '161423'
+white = '9e9ea0'
+white-hg = 'a188f7'
+yellow = '8ddc1f'
+yellow-hg = 'b2dc87'

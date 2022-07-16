@@ -1,0 +1,28 @@
+name = 'C64'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '40318d'
+black = '090300'
+black-hg = '000000'
+blue = '40318d'
+blue-hg = '40318d'
+cursor = '7869c4'
+cyan = '67b6bd'
+cyan-hg = '67b6bd'
+foreground = '7869c4'
+green = '55a049'
+green-hg = '55a049'
+magenta = '8b3f96'
+magenta-hg = '8a3e95'
+red = '883932'
+red-hg = '883932'
+selection-background = '7869c4'
+selection-foreground = '40318d'
+white = 'ffffff'
+white-hg = 'f7f7f7'
+yellow = 'bfce72'
+yellow-hg = 'bfce72'

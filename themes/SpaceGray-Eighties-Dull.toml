@@ -1,0 +1,28 @@
+name = 'SpaceGray-Eighties-Dull'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '212121'
+black = '15171c'
+black-hg = '545454'
+blue = '7b8fa4'
+blue-hg = '5485c0'
+cursor = 'bbbbbb'
+cyan = '7fcccb'
+cyan-hg = '58c2c0'
+foreground = 'c8c5bc'
+green = '91b377'
+green-hg = '88e985'
+magenta = 'a5779e'
+magenta-hg = 'bf83c0'
+red = 'b14956'
+red-hg = 'ec5f67'
+selection-background = '262e36'
+selection-foreground = '212121'
+white = 'b2b8c2'
+white-hg = 'ffffff'
+yellow = 'c6725a'
+yellow-hg = 'fdc253'

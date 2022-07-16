@@ -1,0 +1,28 @@
+name = 'Erebus'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '757575'
+black-hg = 'b8b8b8'
+blue = 'af5fd7'
+blue-hg = 'dea3e5'
+cursor = 'ffffff'
+cyan = 'dea3e5'
+cyan-hg = 'af5fd7'
+foreground = 'ffffff'
+green = 'de8a36'
+green-hg = 'ff9f6f'
+magenta = 'ff87d7'
+magenta-hg = 'd7afaf'
+red = 'ff5f5f'
+red-hg = 'd78787'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'b8b8b8'
+white-hg = '757575'
+yellow = 'd78787'
+yellow-hg = 'ff5f5f'

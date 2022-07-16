@@ -1,0 +1,28 @@
+name = 'Flat'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '002240'
+black = '212c3e'
+black-hg = '202b3b'
+blue = '3066ab'
+blue-hg = '3b7cd2'
+cursor = 'e5bd0c'
+cyan = '2b9270'
+cyan-hg = '35b286'
+foreground = '2bc45d'
+green = '32a448'
+green-hg = '2c9440'
+magenta = '7819a0'
+magenta-hg = '822fa7'
+red = 'a72320'
+red-hg = 'd3302e'
+selection-background = '782b9c'
+selection-foreground = '002240'
+white = 'afb6b9'
+white-hg = 'e6ecec'
+yellow = 'e58d11'
+yellow-hg = 'e5bd0c'

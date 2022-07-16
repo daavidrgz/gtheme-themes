@@ -1,0 +1,28 @@
+name = 'Urple'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1b23'
+black = '000000'
+black-hg = '5c3125'
+blue = '554d9a'
+blue-hg = '8579ed'
+cursor = 'a062ea'
+cyan = '808080'
+cyan-hg = 'eaeaea'
+foreground = '86799a'
+green = '37a315'
+green-hg = '28e51f'
+magenta = '6c3ba1'
+magenta-hg = 'a05dee'
+red = 'af425b'
+red-hg = 'ff6387'
+selection-background = 'a062ea'
+selection-foreground = '1b1b23'
+white = '87799c'
+white-hg = 'bfa3ff'
+yellow = 'ac5b41'
+yellow-hg = 'f08061'

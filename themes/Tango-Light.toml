@@ -1,0 +1,28 @@
+name = 'Tango-Light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '000000'
+black-hg = '545753'
+blue = '3464a4'
+blue-hg = '719ecf'
+cursor = '000000'
+cyan = '05989a'
+cyan-hg = '34e2e2'
+foreground = '000000'
+green = '4e9a05'
+green-hg = '8ae234'
+magenta = '74507a'
+magenta-hg = 'ad7ea7'
+red = 'cc0000'
+red-hg = 'ef2828'
+selection-background = 'b4d5ff'
+selection-foreground = 'ffffff'
+white = 'd3d7cf'
+white-hg = 'ededec'
+yellow = 'c4a000'
+yellow-hg = 'fce94e'

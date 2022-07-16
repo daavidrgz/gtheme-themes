@@ -1,0 +1,28 @@
+name = 'ENCOM'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '545454'
+blue = '0081ff'
+blue-hg = '0000ff'
+cursor = 'bbbbbb'
+cyan = '008b8b'
+cyan-hg = '00cdcd'
+foreground = '00a595'
+green = '008b00'
+green-hg = '00ee00'
+magenta = 'bc00ca'
+magenta-hg = 'ff00ff'
+red = '9f0000'
+red-hg = 'ff0000'
+selection-background = '00a48c'
+selection-foreground = '000000'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = 'ffcf00'
+yellow-hg = 'ffff00'

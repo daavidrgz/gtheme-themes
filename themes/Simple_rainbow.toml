@@ -1,0 +1,28 @@
+name = 'Simple_rainbow'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '575757'
+black = '666666'
+black-hg = '888888'
+blue = '77bee0'
+blue-hg = '77bee0'
+cursor = 'dcdccc'
+cyan = 'ffc178'
+cyan-hg = 'ffc178'
+foreground = 'dcdccc'
+green = 'bde077'
+green-hg = 'bde077'
+magenta = 'dd91f3'
+magenta-hg = 'dd91f3'
+red = 'ff8278'
+red-hg = 'ff8278'
+selection-background = 'dcdccc'
+selection-foreground = '575757'
+white = 'dddddd'
+white-hg = 'cccccc'
+yellow = 'eadc84'
+yellow-hg = 'eadc84'

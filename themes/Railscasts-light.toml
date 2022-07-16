@@ -1,0 +1,28 @@
+name = 'Railscasts-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f9f7f3'
+black = '2b2b2b'
+black-hg = '5a647e'
+blue = '6d9cbe'
+blue-hg = '6d9cbe'
+cursor = '3a4055'
+cyan = '519f50'
+cyan-hg = '519f50'
+foreground = '3a4055'
+green = 'a5c261'
+green-hg = 'a5c261'
+magenta = 'b6b3eb'
+magenta-hg = 'b6b3eb'
+red = 'da4939'
+red-hg = 'da4939'
+selection-background = '3a4055'
+selection-foreground = 'f9f7f3'
+white = 'e6e1dc'
+white-hg = 'f9f7f3'
+yellow = 'ffc66d'
+yellow-hg = 'ffc66d'

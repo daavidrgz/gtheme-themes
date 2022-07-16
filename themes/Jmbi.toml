@@ -1,0 +1,28 @@
+name = 'Jmbi'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1e1e1e'
+black = '5A7260'
+black-hg = '8DA691'
+blue = 'E0BA69'
+blue-hg = 'C9B957'
+cursor = 'ffffff'
+cyan = 'D13516'
+cyan-hg = 'C25431'
+foreground = 'ffffff'
+green = 'BBBB88'
+green-hg = 'CCC68D'
+magenta = '709289'
+magenta-hg = 'FFCBAB'
+red = '8F423C'
+red-hg = 'EEAA88'
+selection-background = 'ffffff'
+selection-foreground = '1e1e1e'
+white = 'EFE2E0'
+white-hg = 'F9F1ED'
+yellow = 'F9D25B'
+yellow-hg = 'EEDD99'

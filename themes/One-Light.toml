@@ -1,0 +1,28 @@
+name = 'One-Light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '282c34'
+black-hg = '5c6370'
+blue = '61afef'
+blue-hg = '61afef'
+cursor = '282c34'
+cyan = '56b6c2'
+cyan-hg = '56b6c2'
+foreground = '282c34'
+green = '98c379'
+green-hg = '98c379'
+magenta = 'c678dd'
+magenta-hg = 'c678dd'
+red = 'e06c75'
+red-hg = 'e06c75'
+selection-background = '282c34'
+selection-foreground = 'ffffff'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'd19a66'
+yellow-hg = 'd19a66'

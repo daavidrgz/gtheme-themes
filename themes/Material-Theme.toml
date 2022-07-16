@@ -1,0 +1,28 @@
+name = 'Material-Theme'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '263238'
+black = '000000'
+black-hg = '4e4e4e'
+blue = '6182b8'
+blue-hg = '82aaff'
+cursor = 'eeffff'
+cyan = '39adb5'
+cyan-hg = '89ddff'
+foreground = 'eeffff'
+green = '91b859'
+green-hg = 'c3e88d'
+magenta = 'ff5370'
+magenta-hg = 'f07178'
+red = 'e53935'
+red-hg = 'ff5370'
+selection-background = 'eeffff'
+selection-foreground = '263238'
+white = 'a0a0a0'
+white-hg = 'ffffff'
+yellow = 'ffb62c'
+yellow-hg = 'ffcb6b'

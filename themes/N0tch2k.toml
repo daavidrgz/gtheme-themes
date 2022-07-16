@@ -1,0 +1,28 @@
+name = 'N0tch2k'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222222'
+black = '383838'
+black-hg = '474747'
+blue = '657d3e'
+blue-hg = '98bd5e'
+cursor = 'a99075'
+cyan = 'c9c9c9'
+cyan-hg = 'dcdcdc'
+foreground = 'a0a0a0'
+green = '666666'
+green-hg = '8c8c8c'
+magenta = '767676'
+magenta-hg = 'a3a3a3'
+red = 'a95551'
+red-hg = 'a97775'
+selection-background = '4d4d4d'
+selection-foreground = '222222'
+white = 'd0b8a3'
+white-hg = 'd8c8bb'
+yellow = 'a98051'
+yellow-hg = 'a99175'

@@ -1,0 +1,28 @@
+name = 'Flatland'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1c1e20'
+black = '1c1d19'
+black-hg = '1c1d19'
+blue = '4f96be'
+blue-hg = '61b8d0'
+cursor = '708183'
+cyan = 'd53864'
+cyan-hg = 'd53864'
+foreground = 'b8daee'
+green = '9ed264'
+green-hg = 'a7d32c'
+magenta = '695abb'
+magenta-hg = '695abb'
+red = 'f18238'
+red-hg = 'd12a24'
+selection-background = '2a2a24'
+selection-foreground = '1c1e20'
+white = 'fefffe'
+white-hg = 'fefffe'
+yellow = 'f3ef6d'
+yellow-hg = 'ff8948'

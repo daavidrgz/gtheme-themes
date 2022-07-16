@@ -1,0 +1,28 @@
+name = 'Broadcast'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2b2b2b'
+black = '000000'
+black-hg = '323232'
+blue = '6d9cbd'
+blue-hg = '9fcef0'
+cursor = 'ffffff'
+cyan = '6d9cbd'
+cyan-hg = 'a0cef0'
+foreground = 'e5e1db'
+green = '509f50'
+green-hg = '83d082'
+magenta = 'cfcfff'
+magenta-hg = 'ffffff'
+red = 'da4839'
+red-hg = 'ff7b6a'
+selection-background = '5a637e'
+selection-foreground = '2b2b2b'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'ffd249'
+yellow-hg = 'ffff7b'

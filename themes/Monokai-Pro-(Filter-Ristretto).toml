@@ -1,0 +1,28 @@
+name = 'Monokai-Pro-(Filter-Ristretto)'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '403838'
+black = '403838'
+black-hg = '72696a'
+blue = 'f38d70'
+blue-hg = 'f38d70'
+cursor = 'fff1f3'
+cyan = '85dacc'
+cyan-hg = '85dacc'
+foreground = 'fff1f3'
+green = 'adda78'
+green-hg = 'adda78'
+magenta = 'a8a9eb'
+magenta-hg = 'a8a9eb'
+red = 'fd6883'
+red-hg = 'fd6883'
+selection-background = 'fff1f3'
+selection-foreground = '403838'
+white = 'fff1f3'
+white-hg = 'fff1f3'
+yellow = 'f9cc6c'
+yellow-hg = 'f9cc6c'

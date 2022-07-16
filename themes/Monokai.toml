@@ -1,0 +1,28 @@
+name = 'Monokai'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '272822'
+black = '272822'
+black-hg = '75715e'
+blue = '66d9ef'
+blue-hg = '66d9ef'
+cursor = 'f8f8f2'
+cyan = 'ae81ff'
+cyan-hg = 'ae81ff'
+foreground = 'f8f8f2'
+green = 'a6e22e'
+green-hg = 'a6e22e'
+magenta = 'fd971f'
+magenta-hg = 'fd971f'
+red = 'f92672'
+red-hg = 'f92672'
+selection-background = 'f8f8f2'
+selection-foreground = '272822'
+white = 'f8f8f2'
+white-hg = 'f8f8f2'
+yellow = 'e6db74'
+yellow-hg = 'e6db74'

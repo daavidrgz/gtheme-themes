@@ -1,0 +1,28 @@
+name = 'Symfonic'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '1b1d21'
+blue = '0084d4'
+blue-hg = '0084d4'
+cursor = 'dc322f'
+cyan = 'ccccff'
+cyan-hg = 'ccccff'
+foreground = 'ffffff'
+green = '56db3a'
+green-hg = '56db3a'
+magenta = 'b729d9'
+magenta-hg = 'b729d9'
+red = 'dc322f'
+red-hg = 'dc322f'
+selection-background = '073642'
+selection-foreground = '000000'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'ff8400'
+yellow-hg = 'ff8400'

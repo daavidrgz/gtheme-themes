@@ -1,0 +1,28 @@
+name = 'Hyper'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '808080'
+blue = '0066ff'
+blue-hg = '0066ff'
+cursor = 'ffffff'
+cyan = '00ffff'
+cyan-hg = '00ffff'
+foreground = 'ffffff'
+green = '33ff00'
+green-hg = '33ff00'
+magenta = 'cc00ff'
+magenta-hg = 'cc00ff'
+red = 'fe0100'
+red-hg = 'fe0100'
+selection-background = 'ffffff'
+selection-foreground = 'F81CE5'
+white = 'd0d0d0'
+white-hg = 'FFFFFF'
+yellow = 'feff00'
+yellow-hg = 'feff00'

@@ -1,0 +1,28 @@
+name = 'Rezza'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222222'
+black = '191919'
+black-hg = '252525'
+blue = '324c80'
+blue-hg = '2b4f98'
+cursor = 'dddddd'
+cyan = '92b19e'
+cyan-hg = 'a1cdcd'
+foreground = 'dddddd'
+green = '5b762f'
+green-hg = '89b83f'
+magenta = '706c9a'
+magenta-hg = '826ab1'
+red = '803232'
+red-hg = '982b2b'
+selection-background = 'dddddd'
+selection-foreground = '222222'
+white = 'ffffff'
+white-hg = 'dddddd'
+yellow = 'aa9943'
+yellow-hg = 'efef60'

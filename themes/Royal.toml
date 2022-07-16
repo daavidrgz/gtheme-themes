@@ -1,0 +1,28 @@
+name = 'Royal'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '100814'
+black = '241f2a'
+black-hg = '312d3c'
+blue = '6480af'
+blue-hg = '8fb9f9'
+cursor = '514965'
+cyan = '8aaabd'
+cyan-hg = 'abd3eb'
+foreground = '504868'
+green = '23801c'
+green-hg = '2cd845'
+magenta = '664d96'
+magenta-hg = 'a479e2'
+red = '90274b'
+red-hg = 'd4346c'
+selection-background = '1e1d2a'
+selection-foreground = '100814'
+white = '514965'
+white-hg = '9d8bbd'
+yellow = 'b49d27'
+yellow-hg = 'fde83a'

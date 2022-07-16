@@ -1,0 +1,28 @@
+name = 'Panda'
+
+[extras]
+vscode = ['Panda Syntax']
+wallpaper = ['']
+
+[colors]
+background = '292a2b'
+black = '292a2b'
+black-hg = '4c566a'
+blue = '45a9f9'
+blue-hg = '6fc1ff'
+cursor = 'ffb86c'
+cyan = '6fc1ff'
+cyan-hg = '6fc1ff'
+foreground = 'e6e6e6'
+green = '19f9d8'
+green-hg = '19f9d8'
+magenta = 'ff75b5'
+magenta-hg = 'ff9ac1'
+red = 'ff2c6d'
+red-hg = 'ff2c6d'
+selection-background = '555555'
+selection-foreground = 'e6e6e6'
+white = 'e6e6e6'
+white-hg = 'ffffff'
+yellow = 'ffb86c'
+yellow-hg = 'ffcc95'

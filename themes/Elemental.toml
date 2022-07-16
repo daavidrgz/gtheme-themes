@@ -1,0 +1,28 @@
+name = 'Elemental'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '21211c'
+black = '3c3b30'
+black-hg = '545444'
+blue = '497f7d'
+blue-hg = '78d8d8'
+cursor = 'facb7f'
+cyan = '387f58'
+cyan-hg = '58d598'
+foreground = '807973'
+green = '479942'
+green-hg = '60e06f'
+magenta = '7e4e2e'
+magenta-hg = 'cd7c53'
+red = '97280f'
+red-hg = 'df502a'
+selection-background = '403729'
+selection-foreground = '21211c'
+white = '807974'
+white-hg = 'fff1e8'
+yellow = '7f7110'
+yellow-hg = 'd69827'

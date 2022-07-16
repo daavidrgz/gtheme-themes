@@ -1,0 +1,28 @@
+name = 'Embers-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '16130F'
+black = '16130F'
+black-hg = '5A5047'
+blue = '6D5782'
+blue-hg = '6D5782'
+cursor = 'A39A90'
+cyan = '576D82'
+cyan-hg = '576D82'
+foreground = 'A39A90'
+green = '57826D'
+green-hg = '57826D'
+magenta = '82576D'
+magenta-hg = '82576D'
+red = '826D57'
+red-hg = '826D57'
+selection-background = 'A39A90'
+selection-foreground = '16130F'
+white = 'A39A90'
+white-hg = 'DBD6D1'
+yellow = '6D8257'
+yellow-hg = '6D8257'

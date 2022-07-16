@@ -1,0 +1,28 @@
+name = 'Japan-Dark'
+
+[extras]
+vscode = ['Rosé Pine']
+wallpaper = ['~/.config/gtheme/wallpapers/Japan/8bit-city.png']
+
+[colors]
+background = '3D495B'
+black = 'faf4ed'
+black-hg = 'faf4ed'
+blue = '7479a6'
+blue-hg = '7479a6'
+cursor = 'faf4ed'
+cyan = 'a3b1cc'
+cyan-hg = 'a3b1cc'
+foreground = 'faf4ed'
+green = '80c28f'
+green-hg = '80c28f'
+magenta = 'EBBDCB'
+magenta-hg = 'EBBDCB'
+red = 'F7AA9D'
+red-hg = 'F7AA9D'
+selection-background = 'faf4ed'
+selection-foreground = '3D495B'
+white = '3D495B'
+white-hg = '3D495B'
+yellow = 'e6db87'
+yellow-hg = 'e6db87'

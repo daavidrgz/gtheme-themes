@@ -1,0 +1,28 @@
+name = 'Atom'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '161718'
+black = '000000'
+black-hg = '000000'
+blue = '85befd'
+blue-hg = '95cbfe'
+cursor = 'd0d0d0'
+cyan = '85befd'
+cyan-hg = '85befd'
+foreground = 'c4c8c5'
+green = '86c38a'
+green-hg = '94f936'
+magenta = 'b9b5fc'
+magenta-hg = 'b9b5fc'
+red = 'fc5ef0'
+red-hg = 'fc5ef0'
+selection-background = '444444'
+selection-foreground = '161718'
+white = 'dfdfdf'
+white-hg = 'dfdfdf'
+yellow = 'ffd6b1'
+yellow-hg = 'f5ffa7'

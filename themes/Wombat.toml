@@ -1,0 +1,28 @@
+name = 'Wombat'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '171717'
+black = '000000'
+black-hg = '313131'
+blue = '5da9f6'
+blue-hg = 'a5c7ff'
+cursor = 'bbbbbb'
+cyan = '82fff6'
+cyan-hg = 'b6fff9'
+foreground = 'ded9ce'
+green = 'b1e869'
+green-hg = 'dcf88f'
+magenta = 'e86aff'
+magenta-hg = 'ddaaff'
+red = 'ff605a'
+red-hg = 'f58b7f'
+selection-background = '453a39'
+selection-foreground = '171717'
+white = 'ded9ce'
+white-hg = 'fefffe'
+yellow = 'ead89c'
+yellow-hg = 'eee5b2'

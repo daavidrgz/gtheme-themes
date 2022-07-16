@@ -1,0 +1,28 @@
+name = 'Papaver'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '343a3f'
+black = '5f61c1'
+black-hg = '5f61c1'
+blue = '9b3c9e'
+blue-hg = '9b3c9e'
+cursor = 'caa16e'
+cyan = 'b19889'
+cyan-hg = 'b19889'
+foreground = 'caa16e'
+green = '829a82'
+green-hg = '829a82'
+magenta = '3180a8'
+magenta-hg = '3180a8'
+red = 'be5abe'
+red-hg = 'be5abe'
+selection-background = 'caa16e'
+selection-foreground = '343a3f'
+white = 'cda184'
+white-hg = 'cda184'
+yellow = '8069ff'
+yellow-hg = '8069ff'

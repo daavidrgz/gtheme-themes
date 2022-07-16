@@ -1,0 +1,28 @@
+name = 'Neopolitan'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '271f19'
+black = '000000'
+black-hg = '000000'
+blue = '253b76'
+blue-hg = '253b76'
+cursor = 'ffffff'
+cyan = '8da6ce'
+cyan-hg = '8da6ce'
+foreground = 'ffffff'
+green = '61ce3c'
+green-hg = '61ce3c'
+magenta = 'ff0080'
+magenta-hg = 'ff0080'
+red = '800000'
+red-hg = '800000'
+selection-background = '253b76'
+selection-foreground = '271f19'
+white = 'f8f8f8'
+white-hg = 'f8f8f8'
+yellow = 'fbde2d'
+yellow-hg = 'fbde2d'

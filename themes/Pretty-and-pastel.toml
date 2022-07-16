@@ -1,0 +1,28 @@
+name = 'Pretty-and-pastel'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '151515'
+black = '292929'
+black-hg = '525252'
+blue = '8197BF'
+blue-hg = 'ACCAFF'
+cursor = '888888'
+cyan = '668799'
+cyan-hg = '80BFAF'
+foreground = '888888'
+green = '19CB00'
+green-hg = '23FD00'
+magenta = '8787AF'
+magenta-hg = 'C4C4FF'
+red = 'CF6A4C'
+red-hg = 'FF9D80'
+selection-background = '888888'
+selection-foreground = '151515'
+white = '888888'
+white-hg = 'E8E8D3'
+yellow = 'FAD07A'
+yellow-hg = 'FFEFBF'

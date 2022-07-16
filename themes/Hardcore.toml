@@ -1,0 +1,28 @@
+name = 'Hardcore'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '121212'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '66d9ef'
+blue-hg = '66d9ef'
+cursor = 'bbbbbb'
+cyan = '5e7175'
+cyan-hg = 'a3babf'
+foreground = 'a0a0a0'
+green = 'a6e22e'
+green-hg = 'beed5f'
+magenta = '9e6ffe'
+magenta-hg = '9e6ffe'
+red = 'f92672'
+red-hg = 'ff669d'
+selection-background = '453a39'
+selection-foreground = '121212'
+white = 'ccccc6'
+white-hg = 'f8f8f2'
+yellow = 'fd971f'
+yellow-hg = 'e6db74'

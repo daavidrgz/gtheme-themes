@@ -1,0 +1,28 @@
+name = 'SoftServer'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '242626'
+black = '000000'
+black-hg = '666c6b'
+blue = '6a8fa3'
+blue-hg = '62b1df'
+cursor = 'd1dfde'
+cyan = '6ba48f'
+cyan-hg = '64e39c'
+foreground = '99a3a2'
+green = '99a569'
+green-hg = 'bfde54'
+magenta = '6971a3'
+magenta-hg = '5f6ede'
+red = 'a16869'
+red-hg = 'dc5b5f'
+selection-background = '7f8786'
+selection-foreground = '242626'
+white = '99a3a2'
+white-hg = 'd1dfde'
+yellow = 'a29069'
+yellow-hg = 'deb35f'

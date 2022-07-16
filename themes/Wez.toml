@@ -1,0 +1,28 @@
+name = 'Wez'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '555555'
+blue = '5455cb'
+blue-hg = '5555ff'
+cursor = '52ad70'
+cyan = '7acaca'
+cyan-hg = '55ffff'
+foreground = 'b3b3b3'
+green = '55cc55'
+green-hg = '55ff55'
+magenta = 'cc55cc'
+magenta-hg = 'ff55ff'
+red = 'cc5555'
+red-hg = 'ff5555'
+selection-background = '4c52f8'
+selection-foreground = '000000'
+white = 'cccccc'
+white-hg = 'ffffff'
+yellow = 'cdcd55'
+yellow-hg = 'ffff55'

@@ -1,0 +1,29 @@
+name = 'Starfall'
+
+[extras]
+intellij-idea = ['']
+vscode = ['Starfall']
+wallpaper = ['~/.config/gtheme/wallpapers/water-paint.jpg']
+
+[colors]
+background = '1B2636'
+black = '4e5c7e'
+black-hg = '4e5c7e'
+blue = '54bef2'
+blue-hg = '54bef2'
+cursor = 'd2d8e7'
+cyan = '82f1b1'
+cyan-hg = '82f1b1'
+foreground = 'd2d8e7'
+green = 'c3e88d'
+green-hg = 'c3e88d'
+magenta = 'c792ea'
+magenta-hg = 'c792ea'
+red = 'fb7185'
+red-hg = 'fb7185'
+selection-background = 'd2d8e7'
+selection-foreground = '1B2636'
+white = 'cacde2'
+white-hg = 'cacde2'
+yellow = 'ffcb6b'
+yellow-hg = 'ffcb6b'

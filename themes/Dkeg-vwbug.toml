@@ -1,0 +1,28 @@
+name = 'Dkeg-vwbug'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '170f0d'
+black = '261e26'
+black-hg = '906756'
+blue = '57403e'
+blue-hg = 'c4ab98'
+cursor = '746c48'
+cyan = '6e5450'
+cyan-hg = 'e7ddd1'
+foreground = '746c48'
+green = '4d353b'
+green-hg = 'ad6042'
+magenta = '665453'
+magenta-hg = 'd9c9b6'
+red = '312c38'
+red-hg = '927e7e'
+selection-background = '746c48'
+selection-foreground = '170f0d'
+white = '8e7266'
+white-hg = 'faf7f2'
+yellow = '503b43'
+yellow-hg = 'b48b6f'

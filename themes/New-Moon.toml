@@ -1,0 +1,28 @@
+name = 'New-Moon'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2D2D2D'
+black = '2D2D2D'
+black-hg = '777C85'
+blue = '6AB0F3'
+blue-hg = '6AB0F3'
+cursor = 'B3B9C5'
+cyan = '76D4D6'
+cyan-hg = '76D4D6'
+foreground = 'B3B9C5'
+green = '92D192'
+green-hg = '76D4D6'
+magenta = 'E1A6F2'
+magenta-hg = 'E1A6F2'
+red = 'F2777A'
+red-hg = 'F2777A'
+selection-background = 'B3B9C5'
+selection-foreground = '2D2D2D'
+white = 'B3B9C5'
+white-hg = 'FFFFFF'
+yellow = 'FFD479'
+yellow-hg = 'FFEEA6'

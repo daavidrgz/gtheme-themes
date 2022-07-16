@@ -1,0 +1,28 @@
+name = 'Summerfruit-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'FFFFFF'
+black = '151515'
+black-hg = '505050'
+blue = '3777E6'
+blue-hg = '3777E6'
+cursor = '303030'
+cyan = '1faaaa'
+cyan-hg = '1faaaa'
+foreground = '303030'
+green = '00C918'
+green-hg = '00C918'
+magenta = 'AD00A1'
+magenta-hg = 'AD00A1'
+red = 'FF0086'
+red-hg = 'FF0086'
+selection-background = '303030'
+selection-foreground = 'FFFFFF'
+white = 'D0D0D0'
+white-hg = 'FFFFFF'
+yellow = 'ABA800'
+yellow-hg = 'ABA800'

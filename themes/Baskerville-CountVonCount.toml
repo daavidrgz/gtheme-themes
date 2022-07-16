@@ -1,0 +1,28 @@
+name = 'Baskerville-CountVonCount'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '303030'
+black-hg = '5e5e5e'
+blue = '8c4b46'
+blue-hg = 'feb2aa'
+cursor = '919191'
+cyan = '9a413d'
+cyan-hg = 'ffaaa0'
+foreground = '919191'
+green = 'a83334'
+green-hg = 'ffa095'
+magenta = '7d534f'
+magenta-hg = 'ebbbb5'
+red = 'c10023'
+red-hg = 'ff8781'
+selection-background = '919191'
+selection-foreground = '000000'
+white = 'c6c6c6'
+white-hg = 'ffffff'
+yellow = 'b51d2c'
+yellow-hg = 'ff948b'

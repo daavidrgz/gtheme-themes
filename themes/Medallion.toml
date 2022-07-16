@@ -1,0 +1,28 @@
+name = 'Medallion'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1d1808'
+black = '000000'
+black-hg = '5e5118'
+blue = '606baf'
+blue-hg = 'abb8ff'
+cursor = 'd3b92f'
+cyan = '906b25'
+cyan-hg = 'ffbb51'
+foreground = 'cac296'
+green = '7c8a16'
+green-hg = 'b1c93a'
+magenta = '8b5990'
+magenta-hg = 'fe9fff'
+red = 'b54c00'
+red-hg = 'ff9148'
+selection-background = '616cab'
+selection-foreground = '1d1808'
+white = 'c9c199'
+white-hg = 'fed597'
+yellow = 'd2bd25'
+yellow-hg = 'ffe449'

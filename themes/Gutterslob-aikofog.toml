@@ -1,0 +1,28 @@
+name = 'Gutterslob-aikofog'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f1eee9'
+black = '757475'
+black-hg = '4a4a4a'
+blue = '6e7291'
+blue-hg = '7782cf'
+cursor = 'b2b3b8'
+cyan = '637e7b'
+cyan-hg = '2ea89a'
+foreground = 'b2b3b8'
+green = '668462'
+green-hg = '4fae42'
+magenta = '846887'
+magenta-hg = 'b754c4'
+red = '936a6f'
+red-hg = 'd76572'
+selection-background = 'b2b3b8'
+selection-foreground = 'f1eee9'
+white = '9a9a9a'
+white-hg = 'c4c4c4'
+yellow = '7f7b62'
+yellow-hg = 'a8981f'

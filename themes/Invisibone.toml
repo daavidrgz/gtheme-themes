@@ -1,0 +1,28 @@
+name = 'Invisibone'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '232323'
+black = '303030'
+black-hg = '686868'
+blue = '6095C5'
+blue-hg = '98CBFE'
+cursor = 'A0A0A0'
+cyan = '3BA275'
+cyan-hg = '75DAA9'
+foreground = 'A0A0A0'
+green = '6D9E3F'
+green-hg = 'A3D572'
+magenta = 'AC7BDE'
+magenta-hg = 'E5B0FF'
+red = 'D370A3'
+red-hg = 'FFA7DA'
+selection-background = 'A0A0A0'
+selection-foreground = '232323'
+white = 'CFCFCF'
+white-hg = 'FFFFFF'
+yellow = 'B58858'
+yellow-hg = 'EFBD8B'

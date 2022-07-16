@@ -1,0 +1,28 @@
+name = 'Square'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1a1a1a'
+black = '050505'
+black-hg = '141414'
+blue = 'a9cdeb'
+blue-hg = 'b6defb'
+cursor = 'fbfacc'
+cyan = 'c9caec'
+cyan-hg = 'd7d9fc'
+foreground = 'acacab'
+green = 'b6377d'
+green-hg = 'c3f786'
+magenta = '75507b'
+magenta-hg = 'ad7fa8'
+red = 'e9897c'
+red-hg = 'f99286'
+selection-background = '4d4d4d'
+selection-foreground = '1a1a1a'
+white = 'f2f2f2'
+white-hg = 'e2e2e2'
+yellow = 'ecebbe'
+yellow-hg = 'fcfbcc'

@@ -1,0 +1,28 @@
+name = 'Baskerville-lostwoods'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '303030'
+black-hg = '5e5e5e'
+blue = 'a43261'
+blue-hg = 'ff9fc9'
+cursor = '919191'
+cyan = '007086'
+cyan-hg = '00ddf4'
+foreground = '919191'
+green = '00715d'
+green-hg = '24dfc4'
+magenta = '913e88'
+magenta-hg = 'ffa7f6'
+red = 'a13a38'
+red-hg = 'ffa59a'
+selection-background = '919191'
+selection-foreground = '000000'
+white = 'c6c6c6'
+white-hg = 'ffffff'
+yellow = '006f32'
+yellow-hg = '73db95'

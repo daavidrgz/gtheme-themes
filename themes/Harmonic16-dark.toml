@@ -1,0 +1,28 @@
+name = 'Harmonic16-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0b1c2c'
+black = '0b1c2c'
+black-hg = '627e99'
+blue = '8b56bf'
+blue-hg = '8b56bf'
+cursor = 'cbd6e2'
+cyan = '568bbf'
+cyan-hg = '568bbf'
+foreground = 'cbd6e2'
+green = '56bf8b'
+green-hg = '56bf8b'
+magenta = 'bf568b'
+magenta-hg = 'bf568b'
+red = 'bf8b56'
+red-hg = 'bf8b56'
+selection-background = 'cbd6e2'
+selection-foreground = '0b1c2c'
+white = 'cbd6e2'
+white-hg = 'f7f9fb'
+yellow = '8bbf56'
+yellow-hg = '8bbf56'

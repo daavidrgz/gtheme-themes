@@ -1,0 +1,28 @@
+name = 'Tomorrow-Night-Blue'
+
+[extras]
+vscode = ['Tomorrow Night Blue']
+wallpaper = ['~/.config/gtheme/wallpapers/Tomorrow-Night-Blue/windows-rounded.png']
+
+[colors]
+background = '002450'
+black = '000000'
+black-hg = '000000'
+blue = 'badaff'
+blue-hg = 'badaff'
+cursor = 'fffefe'
+cyan = '99ffff'
+cyan-hg = '99ffff'
+foreground = 'fffefe'
+green = 'd0f0a8'
+green-hg = 'd0f0a8'
+magenta = 'ebbaff'
+magenta-hg = 'ebbaff'
+red = 'ff9ca3'
+red-hg = 'ff9ca3'
+selection-background = '003e8e'
+selection-foreground = '002450'
+white = 'fffefe'
+white-hg = 'fffefe'
+yellow = 'ffedac'
+yellow-hg = 'ffedac'

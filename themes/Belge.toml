@@ -1,0 +1,28 @@
+name = 'Belge'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '252525'
+black-hg = '454545'
+blue = '6495ed'
+blue-hg = '87ceeb'
+cursor = 'ffffff'
+cyan = 'b0c4de'
+cyan-hg = '87ceeb'
+foreground = 'ffffff'
+green = 'a6e22e'
+green-hg = 'b6e354'
+magenta = 'deb887'
+magenta-hg = '996600'
+red = 'ef6769'
+red-hg = 'fc7ca5'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'dbdcdc'
+white-hg = 'fdfdfd'
+yellow = 'fd971f'
+yellow-hg = 'fd971f'

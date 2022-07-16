@@ -1,0 +1,28 @@
+name = 'Future'
+
+[extras]
+vscode = ['Ayu Dark Bordered']
+wallpaper = ['~/.config/gtheme/wallpapers/Future/sand-sea.jpg']
+
+[colors]
+background = '10151B'
+black = '524C4D'
+black-hg = '524C4D'
+blue = 'FA8D38'
+blue-hg = 'FA8D38'
+cursor = 'FDFEF3'
+cyan = 'F2C5B7'
+cyan-hg = 'F2C5B7'
+foreground = 'FDFEF3'
+green = 'F2C5B7'
+green-hg = 'F2C5B7'
+magenta = '8C604E'
+magenta-hg = '8C604E'
+red = 'FC551E'
+red-hg = 'FC551E'
+selection-background = 'FDFEF3'
+selection-foreground = '10151B'
+white = 'e5e8f0'
+white-hg = 'eceff4'
+yellow = '515558'
+yellow-hg = '515558'

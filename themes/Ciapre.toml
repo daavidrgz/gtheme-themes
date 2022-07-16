@@ -1,0 +1,28 @@
+name = 'Ciapre'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '181c27'
+black = '181818'
+black-hg = '555555'
+blue = '566d8c'
+blue-hg = '2f97c6'
+cursor = '91805a'
+cyan = '5b4f4a'
+cyan-hg = 'f3dab1'
+foreground = 'ada37a'
+green = '48513b'
+green-hg = 'a6a65d'
+magenta = '724c7c'
+magenta-hg = 'd33060'
+red = '800009'
+red-hg = 'ab3834'
+selection-background = '172539'
+selection-foreground = '181c27'
+white = 'ada37e'
+white-hg = 'f3f3f3'
+yellow = 'cc8a3e'
+yellow-hg = 'dcde7b'

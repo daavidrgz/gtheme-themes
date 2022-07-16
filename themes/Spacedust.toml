@@ -1,0 +1,28 @@
+name = 'Spacedust'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0a1e24'
+black = '6e5246'
+black-hg = '674c31'
+blue = '0e548b'
+blue-hg = '67a0cd'
+cursor = '708183'
+cyan = '06afc7'
+cyan-hg = '83a6b3'
+foreground = 'ecefc1'
+green = '5cab96'
+green-hg = 'adcab8'
+magenta = 'e35a00'
+magenta-hg = 'ff8a39'
+red = 'e35a00'
+red-hg = 'ff8a39'
+selection-background = '0a385c'
+selection-foreground = '0a1e24'
+white = 'f0f1ce'
+white-hg = 'fefff0'
+yellow = 'e3cd7b'
+yellow-hg = 'ffc777'

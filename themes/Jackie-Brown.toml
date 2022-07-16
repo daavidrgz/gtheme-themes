@@ -1,0 +1,28 @@
+name = 'Jackie-Brown'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2c1c15'
+black = '2c1d16'
+black-hg = '666666'
+blue = '246db2'
+blue-hg = '0000ff'
+cursor = '23ff18'
+cyan = '00acee'
+cyan-hg = '00e5e5'
+foreground = 'ffcc2f'
+green = '2baf2b'
+green-hg = '86a83e'
+magenta = 'cf5ec0'
+magenta-hg = 'e500e5'
+red = 'ef5734'
+red-hg = 'e50000'
+selection-background = 'ae8c20'
+selection-foreground = '2c1c15'
+white = 'bfbfbf'
+white-hg = 'e5e5e5'
+yellow = 'bdbe00'
+yellow-hg = 'e5e500'

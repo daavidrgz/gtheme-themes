@@ -1,0 +1,28 @@
+name = 'Dkeg-panels'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '191927'
+black-hg = '905749'
+blue = '4e3a4f'
+blue-hg = 'e1750f'
+cursor = 'd3d3d3'
+cyan = '6b484c'
+cyan-hg = 'fa8e08'
+foreground = 'd3d3d3'
+green = '2b4593'
+green-hg = '9f582a'
+magenta = '61372f'
+magenta-hg = 'eaaf25'
+red = '282f5e'
+red-hg = '94431c'
+selection-background = 'd3d3d3'
+selection-foreground = '000000'
+white = '744537'
+white-hg = 'fca806'
+yellow = '344276'
+yellow-hg = 'a38687'

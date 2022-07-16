@@ -1,0 +1,28 @@
+name = 'Yousai'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'F5E7DE'
+black = '666661'
+black-hg = '7F7F7A'
+blue = '4C7399'
+blue-hg = '5986B2'
+cursor = '34302D'
+cyan = 'D97742'
+cyan-hg = 'F2854A'
+foreground = '34302D'
+green = '4C3226'
+green-hg = '664233'
+magenta = 'BF9986'
+magenta-hg = 'D9AE98'
+red = '992E2E'
+red-hg = 'B23636'
+selection-background = '34302D'
+selection-foreground = 'F5E7DE'
+white = '34302D'
+white-hg = '4C4742'
+yellow = 'A67C53'
+yellow-hg = 'BF8F60'

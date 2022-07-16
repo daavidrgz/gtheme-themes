@@ -1,0 +1,28 @@
+name = 'Thayer-Bright'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1d1e'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '2656d6'
+blue-hg = '3f78ff'
+cursor = 'fc971e'
+cyan = '37c8b4'
+cyan-hg = '23ced4'
+foreground = 'f8f8f8'
+green = '4df740'
+green-hg = 'b6e354'
+magenta = '8c54fe'
+magenta-hg = '9e6ffe'
+red = 'f92672'
+red-hg = 'ff5995'
+selection-background = '4d4d4d'
+selection-foreground = '1b1d1e'
+white = 'ccccc6'
+white-hg = 'f8f8f2'
+yellow = 'f3fd21'
+yellow-hg = 'feed6c'

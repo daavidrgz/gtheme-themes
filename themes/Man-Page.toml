@@ -1,0 +1,28 @@
+name = 'Man-Page'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'fef49c'
+black = '000000'
+black-hg = '666666'
+blue = '0000b2'
+blue-hg = '0000ff'
+cursor = '7f7f7f'
+cyan = '00a6b2'
+cyan-hg = '00e5e5'
+foreground = '000000'
+green = '00a600'
+green-hg = '00d900'
+magenta = 'b200b2'
+magenta-hg = 'e500e5'
+red = 'cc0000'
+red-hg = 'e50000'
+selection-background = 'a4c9cd'
+selection-foreground = 'fef49c'
+white = 'cccccc'
+white-hg = 'e5e5e5'
+yellow = '999900'
+yellow-hg = 'e5e500'

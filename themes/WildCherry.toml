@@ -1,0 +1,28 @@
+name = 'WildCherry'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1f1626'
+black = '000506'
+black-hg = '009cc9'
+blue = '873bdb'
+blue-hg = '2f8bb9'
+cursor = 'dd00ff'
+cyan = 'c1b8b6'
+cyan-hg = 'ff919d'
+foreground = 'd9faff'
+green = '2ab250'
+green-hg = 'f4dba5'
+magenta = 'ececec'
+magenta-hg = 'ae636b'
+red = 'd94085'
+red-hg = 'da6bab'
+selection-background = '002731'
+selection-foreground = '1f1626'
+white = 'fff8dd'
+white-hg = 'e4838d'
+yellow = 'ffd06e'
+yellow-hg = 'eac066'

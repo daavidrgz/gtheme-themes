@@ -1,0 +1,28 @@
+name = 'X-dotshare'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '151515'
+black = '101010'
+black-hg = '404040'
+blue = '7DC1CF'
+blue-hg = '4E9FB1'
+cursor = 'D7D0C7'
+cyan = '6D878D'
+cyan-hg = '42717B'
+foreground = 'D7D0C7'
+green = 'B8D68C'
+green-hg = 'A0CF5D'
+magenta = '9B64FB'
+magenta-hg = '8542FF'
+red = 'E84F4F'
+red-hg = 'D23D3D'
+selection-background = 'D7D0C7'
+selection-foreground = '151515'
+white = 'DDDDDD'
+white-hg = 'DDDDDD'
+yellow = 'E1AA5D'
+yellow-hg = 'F39D21'

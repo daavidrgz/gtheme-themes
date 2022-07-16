@@ -1,0 +1,28 @@
+name = 'Horizon'
+
+[extras]
+vscode = ['Horizon Dark']
+wallpaper = ['~/.config/gtheme/wallpapers/Horizon/sunset-pier.jpg']
+
+[colors]
+background = '1C1E26'
+black = '676767'
+black-hg = '676767'
+blue = 'e95678'
+blue-hg = '3FC6DE'
+cursor = 'BABABA'
+cyan = '25b0bc'
+cyan-hg = '6BE6E6'
+foreground = 'BABABA'
+green = '29D398'
+green-hg = '3FDAA4'
+magenta = 'b877db'
+magenta-hg = 'b877db'
+red = 'EC6A88'
+red-hg = 'EC6A88'
+selection-background = '07DA8C'
+selection-foreground = '1C1E26'
+white = 'FEFFFF'
+white-hg = 'FEFFFF'
+yellow = 'FAB795'
+yellow-hg = 'FBC3A7'

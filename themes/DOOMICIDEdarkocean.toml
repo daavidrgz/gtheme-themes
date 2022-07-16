@@ -1,0 +1,28 @@
+name = 'DOOMICIDEdarkocean'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '38372c'
+blue = '385a70'
+blue-hg = '323f5c'
+cursor = 'ffffff'
+cyan = '4f3a5e'
+cyan-hg = '667d77'
+foreground = 'ffffff'
+green = '14db49'
+green-hg = 'a2e655'
+magenta = '384894'
+magenta-hg = '5e6c99'
+red = '571dc2'
+red-hg = '7c54b0'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = '999999'
+white-hg = 'ffffff'
+yellow = '403d70'
+yellow-hg = '9c6f59'

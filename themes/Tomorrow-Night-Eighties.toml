@@ -1,0 +1,28 @@
+name = 'Tomorrow-Night-Eighties'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2c2c2c'
+black = '000000'
+black-hg = '000000'
+blue = '6699cc'
+blue-hg = '6699cc'
+cursor = 'cccccc'
+cyan = '66cccc'
+cyan-hg = '66cccc'
+foreground = 'cccccc'
+green = '99cc99'
+green-hg = '99cc99'
+magenta = 'cc99cc'
+magenta-hg = 'cc99cc'
+red = 'f17779'
+red-hg = 'f17779'
+selection-background = '505050'
+selection-foreground = '2c2c2c'
+white = 'fffefe'
+white-hg = 'fffefe'
+yellow = 'ffcc66'
+yellow-hg = 'ffcc66'

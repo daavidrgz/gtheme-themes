@@ -1,0 +1,28 @@
+name = 'Visiblue'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '333366'
+black-hg = '333399'
+blue = '006699'
+blue-hg = '0099cc'
+cursor = '666699'
+cyan = '669999'
+cyan-hg = '66cccc'
+foreground = '666699'
+green = '0099cc'
+green-hg = '00ccff'
+magenta = '0066ff'
+magenta-hg = '0099ff'
+red = '6666cc'
+red-hg = '9999ff'
+selection-background = '666699'
+selection-foreground = '000000'
+white = '99cccc'
+white-hg = 'ccffff'
+yellow = '3366cc'
+yellow-hg = '6699ff'

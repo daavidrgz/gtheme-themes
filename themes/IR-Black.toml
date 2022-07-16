@@ -1,0 +1,28 @@
+name = 'IR-Black'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '4e4e4e'
+black-hg = '7c7c7c'
+blue = '96cbfe'
+blue-hg = 'b5dcfe'
+cursor = 'ffffff'
+cyan = 'c6c5fe'
+cyan-hg = 'dfdffe'
+foreground = 'ffffff'
+green = 'a8ff60'
+green-hg = 'ceffab'
+magenta = 'ff73fd'
+magenta-hg = 'ff9cfe'
+red = 'ff6c60'
+red-hg = 'ffb6b0'
+selection-background = 'ffffff'
+selection-foreground = 'ffffff'
+white = 'eeeeee'
+white-hg = 'ffffff'
+yellow = 'ffffb6'
+yellow-hg = 'ffffcb'

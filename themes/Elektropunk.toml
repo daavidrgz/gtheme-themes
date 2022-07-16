@@ -1,0 +1,28 @@
+name = 'Elektropunk'
+
+[extras]
+vscode = ['Activate UMBRA protocol']
+wallpaper = ['~/.config/gtheme/wallpapers/Elektropunk/purple-punk.png']
+
+[colors]
+background = '050028'
+black = '3b4252'
+black-hg = '4c566a'
+blue = 'ee00ff'
+blue-hg = 'ee00ff'
+cursor = '00FFFF'
+cyan = '00d0ff'
+cyan-hg = '00d0ff'
+foreground = '00FFFF'
+green = '00ff8c'
+green-hg = '00ff8c'
+magenta = 'ff0077'
+magenta-hg = 'ff0077'
+red = 'ff003c'
+red-hg = 'ff003c'
+selection-background = '00FFFF'
+selection-foreground = '050028'
+white = 'DEDEDE'
+white-hg = 'DEDEDE'
+yellow = 'ffff00'
+yellow-hg = 'ffff00'

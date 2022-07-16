@@ -1,0 +1,28 @@
+name = 'Hipster-Green'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0f0a05'
+black = '000000'
+black-hg = '666666'
+blue = '246db2'
+blue-hg = '0000ff'
+cursor = '23ff18'
+cyan = '00a6b2'
+cyan-hg = '00e5e5'
+foreground = '84c137'
+green = '00a600'
+green-hg = '86a83e'
+magenta = 'b200b2'
+magenta-hg = 'e500e5'
+red = 'b6204a'
+red-hg = 'e50000'
+selection-background = '083905'
+selection-foreground = '0f0a05'
+white = 'bfbfbf'
+white-hg = 'e5e5e5'
+yellow = 'bebe00'
+yellow-hg = 'e5e500'

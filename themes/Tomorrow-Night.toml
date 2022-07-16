@@ -1,0 +1,28 @@
+name = 'Tomorrow-Night'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1d1f21'
+black = '000000'
+black-hg = '000000'
+blue = '80a1bd'
+blue-hg = '80a1bd'
+cursor = 'c4c8c5'
+cyan = '8abdb6'
+cyan-hg = '8abdb6'
+foreground = 'c4c8c5'
+green = 'b5bd68'
+green-hg = 'b5bd68'
+magenta = 'b294ba'
+magenta-hg = 'b294ba'
+red = 'cc6666'
+red-hg = 'cc6666'
+selection-background = '363a41'
+selection-foreground = '1d1f21'
+white = 'fffefe'
+white-hg = 'fffefe'
+yellow = 'f0c574'
+yellow-hg = 'f0c574'

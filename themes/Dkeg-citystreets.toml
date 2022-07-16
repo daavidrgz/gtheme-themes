@@ -1,0 +1,28 @@
+name = 'Dkeg-citystreets'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '201e24'
+black-hg = '837c78'
+blue = '423e41'
+blue-hg = 'c3bcb2'
+cursor = 'd3d3d3'
+cyan = '6e6765'
+cyan-hg = 'e3ddd2'
+foreground = 'd3d3d3'
+green = '3f3d40'
+green-hg = 'a7a099'
+magenta = '4e4a4b'
+magenta-hg = 'cbc5ba'
+red = '2d2b30'
+red-hg = '89827d'
+selection-background = 'd3d3d3'
+selection-foreground = '000000'
+white = '837e81'
+white-hg = 'efe8dc'
+yellow = '413c3e'
+yellow-hg = 'c2bec1'

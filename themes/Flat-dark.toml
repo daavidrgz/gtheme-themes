@@ -1,0 +1,28 @@
+name = 'Flat-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2C3E50'
+black = '2C3E50'
+black-hg = '95A5A6'
+blue = '3498DB'
+blue-hg = '3498DB'
+cursor = 'e0e0e0'
+cyan = '1ABC9C'
+cyan-hg = '1ABC9C'
+foreground = 'e0e0e0'
+green = '2ECC71'
+green-hg = '2ECC71'
+magenta = '9B59B6'
+magenta-hg = '9B59B6'
+red = 'E74C3C'
+red-hg = 'E74C3C'
+selection-background = 'e0e0e0'
+selection-foreground = '2C3E50'
+white = 'e0e0e0'
+white-hg = 'ECF0F1'
+yellow = 'F1C40F'
+yellow-hg = 'F1C40F'

@@ -1,0 +1,28 @@
+name = 'Blazer'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0d1925'
+black = '000000'
+black-hg = '252525'
+blue = '7979b8'
+blue-hg = 'bdbdda'
+cursor = 'd9e5f1'
+cyan = '79b8b8'
+cyan-hg = 'bddada'
+foreground = 'd9e5f1'
+green = '79b879'
+green-hg = 'bddabd'
+magenta = 'b879b8'
+magenta-hg = 'dabdda'
+red = 'b87979'
+red-hg = 'dabdbd'
+selection-background = 'd9e6f2'
+selection-foreground = '0d1925'
+white = 'd9d9d9'
+white-hg = 'ffffff'
+yellow = 'b8b879'
+yellow-hg = 'dadabd'

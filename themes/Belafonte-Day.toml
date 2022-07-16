@@ -1,0 +1,28 @@
+name = 'Belafonte-Day'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'd4ccb9'
+black = '20111a'
+black-hg = '5e5252'
+blue = '416978'
+blue-hg = '416978'
+cursor = '45363b'
+cyan = '98999c'
+cyan-hg = '98999c'
+foreground = '45363b'
+green = '858062'
+green-hg = '858062'
+magenta = '96522b'
+magenta-hg = '96522b'
+red = 'bd100d'
+red-hg = 'bd100d'
+selection-background = '958b83'
+selection-foreground = 'd4ccb9'
+white = '958b83'
+white-hg = 'd4ccb9'
+yellow = 'e9a448'
+yellow-hg = 'e9a448'

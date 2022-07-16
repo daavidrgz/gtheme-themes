@@ -1,0 +1,28 @@
+name = 'Dkeg-unsiftedwheat'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '111111'
+black = '382c2f'
+black-hg = 'ac9377'
+blue = '836e5e'
+blue-hg = 'cfb48e'
+cursor = 'd3d3d3'
+cyan = '917781'
+cyan-hg = 'dfc39b'
+foreground = 'd3d3d3'
+green = '65534d'
+green-hg = 'bca282'
+magenta = '8e7766'
+magenta-hg = 'd1baa3'
+red = '48393a'
+red-hg = 'baa17e'
+selection-background = 'd3d3d3'
+selection-foreground = '111111'
+white = '9a846d'
+white-hg = 'eed8c4'
+yellow = '79665a'
+yellow-hg = 'c1a67e'

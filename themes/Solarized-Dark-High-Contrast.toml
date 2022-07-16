@@ -1,0 +1,28 @@
+name = 'Solarized-Dark-High-Contrast'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '001e26'
+black = '002731'
+black-hg = '006388'
+blue = '2075c7'
+blue-hg = '178dc7'
+cursor = 'f34a00'
+cyan = '259185'
+cyan-hg = '00b29e'
+foreground = '9bc1c2'
+green = '6bbe6c'
+green-hg = '50ee84'
+magenta = 'c61b6e'
+magenta-hg = 'e14d8e'
+red = 'd01b24'
+red-hg = 'f4153b'
+selection-background = '003747'
+selection-foreground = '001e26'
+white = 'e9e2cb'
+white-hg = 'fcf4dc'
+yellow = 'a57705'
+yellow-hg = 'b17e28'

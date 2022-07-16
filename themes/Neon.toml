@@ -1,0 +1,28 @@
+name = 'Neon'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '171717'
+black = '171717'
+black-hg = '38252C'
+blue = '16B1FB'
+blue-hg = '289CD5'
+cursor = 'F8F8F8'
+cyan = '0FDCB6'
+cyan-hg = '0A9B81'
+foreground = 'F8F8F8'
+green = '97D01A'
+green-hg = '76B639'
+magenta = 'FF2491'
+magenta-hg = 'FF2491'
+red = 'D81765'
+red-hg = 'FF0000'
+selection-background = 'F8F8F8'
+selection-foreground = '171717'
+white = 'EBEBEB'
+white-hg = 'F8F8F8'
+yellow = 'FFA800'
+yellow-hg = 'E1A126'

@@ -1,0 +1,28 @@
+name = 'Grass'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '12773d'
+black = '000000'
+black-hg = '545454'
+blue = '0000a3'
+blue-hg = '0000ba'
+cursor = '8b2800'
+cyan = '00baba'
+cyan-hg = '54ffff'
+foreground = 'fff0a4'
+green = '00ba00'
+green-hg = '00ba00'
+magenta = '950062'
+magenta-hg = 'ff54ff'
+red = 'ba0000'
+red-hg = 'ba0000'
+selection-background = 'b64825'
+selection-foreground = '12773d'
+white = 'bababa'
+white-hg = 'ffffff'
+yellow = 'e6af00'
+yellow-hg = 'e6af00'

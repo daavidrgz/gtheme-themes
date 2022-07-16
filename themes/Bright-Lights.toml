@@ -1,0 +1,28 @@
+name = 'Bright-Lights'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '191919'
+black = '191919'
+black-hg = '191919'
+blue = '75d3ff'
+blue-hg = '75d4ff'
+cursor = 'f34a00'
+cyan = '6cbeb5'
+cyan-hg = '6cbeb5'
+foreground = 'b2c8d6'
+green = 'b6e875'
+green-hg = 'b6e875'
+magenta = 'b975e6'
+magenta-hg = 'b975e6'
+red = 'ff355b'
+red-hg = 'ff355b'
+selection-background = 'b2c8d6'
+selection-foreground = '191919'
+white = 'c1c8d6'
+white-hg = 'c1c8d6'
+yellow = 'ffc150'
+yellow-hg = 'ffc150'

@@ -1,0 +1,28 @@
+name = 'S3r0-modified'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1F1F1F'
+black = '4A3637'
+black-hg = '4A3637'
+blue = '535C5C'
+blue-hg = '535C5C'
+cursor = 'C0B18B'
+cyan = '6D715E'
+cyan-hg = '6D715E'
+foreground = 'C0B18B'
+green = '7B8748'
+green-hg = '7B8748'
+magenta = '775759'
+magenta-hg = '775759'
+red = 'D17B49'
+red-hg = 'D17B49'
+selection-background = 'C0B18B'
+selection-foreground = '1F1F1F'
+white = 'C0B18B'
+white-hg = 'C0B18B'
+yellow = 'AF865A'
+yellow-hg = 'AF865A'

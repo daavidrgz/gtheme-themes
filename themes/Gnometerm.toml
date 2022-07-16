@@ -1,0 +1,28 @@
+name = 'Gnometerm'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '555753'
+blue = '3465a4'
+blue-hg = '729fcf'
+cursor = 'ffffff'
+cyan = '06989a'
+cyan-hg = '34e2e2'
+foreground = 'ffffff'
+green = '4e9a06'
+green-hg = '8ae234'
+magenta = '75507b'
+magenta-hg = 'ad7fa8'
+red = 'cc0000'
+red-hg = 'ef2929'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'd3d7cf'
+white-hg = 'eeeeec'
+yellow = 'c4a000'
+yellow-hg = 'fce94f'

@@ -1,0 +1,28 @@
+name = 'Alucard'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222330'
+black = '000000'
+black-hg = '545454'
+blue = '3282ff'
+blue-hg = '1200f8'
+cursor = 'ffffff'
+cyan = '0037fc'
+cyan-hg = '8ae9fc'
+foreground = 'cef3ff'
+green = 'fa0074'
+green-hg = '50fa7b'
+magenta = '1b3cff'
+magenta-hg = 'ff78c5'
+red = 'ff5555'
+red-hg = 'ff5454'
+selection-background = '44475a'
+selection-foreground = '222330'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = '7f0a1f'
+yellow-hg = 'f0fa8b'

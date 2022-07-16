@@ -1,0 +1,28 @@
+name = 'Codeschool-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '232c31'
+black = '232c31'
+black-hg = '3f4944'
+blue = '484d79'
+blue-hg = '484d79'
+cursor = '9ea7a6'
+cyan = 'b02f30'
+cyan-hg = 'b02f30'
+foreground = '9ea7a6'
+green = '237986'
+green-hg = '237986'
+magenta = 'c59820'
+magenta-hg = 'c59820'
+red = '2a5491'
+red-hg = '2a5491'
+selection-background = '9ea7a6'
+selection-foreground = '232c31'
+white = '9ea7a6'
+white-hg = 'b5d8f6'
+yellow = 'a03b1e'
+yellow-hg = 'a03b1e'

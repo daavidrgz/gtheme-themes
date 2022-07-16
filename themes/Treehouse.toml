@@ -1,0 +1,28 @@
+name = 'Treehouse'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '191919'
+black = '321200'
+black-hg = '423625'
+blue = '578499'
+blue-hg = '85cfec'
+cursor = 'fac814'
+cyan = 'b2591d'
+cyan-hg = 'f07c14'
+foreground = '776b53'
+green = '44a900'
+green-hg = '55f237'
+magenta = '96363c'
+magenta-hg = 'e04b5a'
+red = 'b1270e'
+red-hg = 'ed5c20'
+selection-background = '776b53'
+selection-foreground = '191919'
+white = '776b53'
+white-hg = 'ffc800'
+yellow = 'a9810b'
+yellow-hg = 'f1b731'

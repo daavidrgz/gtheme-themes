@@ -1,0 +1,28 @@
+name = '3024-Light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f7f7f7'
+black = '090300'
+black-hg = '5c5855'
+blue = '01a0e4'
+blue-hg = '01a0e4'
+cursor = '4a4543'
+cyan = 'b5e4f4'
+cyan-hg = 'b5e4f4'
+foreground = '4a4543'
+green = '01a252'
+green-hg = '01a252'
+magenta = 'a16a94'
+magenta-hg = 'a16a94'
+red = 'db2d20'
+red-hg = 'db2d20'
+selection-background = '4a4543'
+selection-foreground = 'f7f7f7'
+white = 'a5a2a2'
+white-hg = 'f7f7f7'
+yellow = 'fded02'
+yellow-hg = 'fded02'

@@ -1,0 +1,28 @@
+name = 'Sundried'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1a1818'
+black = '302b2a'
+black-hg = '4d4d47'
+blue = '485a98'
+blue-hg = '7898f7'
+cursor = 'fffefe'
+cyan = '9c814e'
+cyan-hg = 'fad384'
+foreground = 'c8c8c8'
+green = '577644'
+green-hg = '128c20'
+magenta = '854551'
+magenta-hg = 'fc89a0'
+red = 'a6463d'
+red-hg = 'aa000c'
+selection-background = '302b2a'
+selection-foreground = '1a1818'
+white = 'c8c8c8'
+white-hg = 'fffefe'
+yellow = '9c5f2a'
+yellow-hg = 'fc6a20'

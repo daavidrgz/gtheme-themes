@@ -1,0 +1,28 @@
+name = 'Everforest-Light-Soft'
+
+[extras]
+vscode = ['Everforest Light']
+wallpaper = ['']
+
+[colors]
+background = 'f8f0dc'
+black = '5c6a72'
+black-hg = '5c6a72'
+blue = '3a94c5'
+blue-hg = '3a94c5'
+cursor = '5c6a72'
+cyan = '35a77c'
+cyan-hg = '35a77c'
+foreground = '5c6a72'
+green = '8da101'
+green-hg = '8da101'
+magenta = 'df69ba'
+magenta-hg = 'df69ba'
+red = 'f85552'
+red-hg = 'f85552'
+selection-background = '5c6a72'
+selection-foreground = 'f8f0dc'
+white = 'dfddc8'
+white-hg = 'dfddc8'
+yellow = 'dfa000'
+yellow-hg = 'dfa000'

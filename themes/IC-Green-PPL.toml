@@ -1,0 +1,28 @@
+name = 'IC-Green-PPL'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3a3c3e'
+black = '1e1e1e'
+black-hg = '03260f'
+blue = '149b45'
+blue-hg = '72ffb5'
+cursor = '41ff58'
+cyan = '2bb767'
+cyan-hg = '22ff71'
+foreground = 'd9eed2'
+green = '329b24'
+green-hg = '9fff6d'
+magenta = '53b82b'
+magenta-hg = '50ff3d'
+red = 'fb0029'
+red-hg = 'a6ff3e'
+selection-background = '2a9b34'
+selection-foreground = '3a3c3e'
+white = 'dffeee'
+white-hg = 'daeed0'
+yellow = '649a25'
+yellow-hg = 'd1ff6d'

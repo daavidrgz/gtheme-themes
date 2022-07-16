@@ -1,0 +1,28 @@
+name = 'Obsidian'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '273032'
+black = '000000'
+black-hg = '545454'
+blue = '399bda'
+blue-hg = 'a0d6ff'
+cursor = 'c0cad0'
+cyan = '00bbbb'
+cyan-hg = '55ffff'
+foreground = 'cccccc'
+green = '00bb00'
+green-hg = '92c763'
+magenta = 'bb00bb'
+magenta-hg = 'ff55ff'
+red = 'a50001'
+red-hg = 'ff0003'
+selection-background = '3d4b4e'
+selection-foreground = '273032'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = 'fecc22'
+yellow-hg = 'fef773'

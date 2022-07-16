@@ -1,0 +1,28 @@
+name = 'AdventureTime'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1e1c44'
+black = '050404'
+black-hg = '4e7bbf'
+blue = '0f49c6'
+blue-hg = '1896c6'
+cursor = 'eebf37'
+cyan = '6fa497'
+cyan-hg = 'c8f9f3'
+foreground = 'f8dbc0'
+green = '49b117'
+green-hg = '9dff6e'
+magenta = '665992'
+magenta-hg = '9a5952'
+red = 'bc0013'
+red-hg = 'fc5e59'
+selection-background = '6f6a4e'
+selection-foreground = '1e1c44'
+white = 'f8dbc0'
+white-hg = 'f5f4fb'
+yellow = 'e6741d'
+yellow-hg = 'efc11a'

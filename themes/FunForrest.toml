@@ -1,0 +1,28 @@
+name = 'FunForrest'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '241200'
+black = '000000'
+black-hg = '7e6954'
+blue = '4698a2'
+blue-hg = '7cc9ce'
+cursor = 'e5591c'
+cyan = 'd98112'
+cyan-hg = 'e6a96b'
+foreground = 'ddc165'
+green = '909b00'
+green-hg = 'bfc659'
+magenta = '8c4231'
+magenta-hg = 'd16349'
+red = 'd5252b'
+red-hg = 'e4591b'
+selection-background = 'e5591c'
+selection-foreground = '241200'
+white = 'ddc165'
+white-hg = 'ffe9a3'
+yellow = 'bd8a13'
+yellow-hg = 'ffca1b'

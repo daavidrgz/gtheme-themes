@@ -1,0 +1,28 @@
+name = 'Monokai-Classic'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3b3c35'
+black = '3b3c35'
+black-hg = '6e7066'
+blue = 'fc961f'
+blue-hg = 'fc961f'
+cursor = 'fdfff1'
+cyan = '66d9ee'
+cyan-hg = '66d9ee'
+foreground = 'fdfff1'
+green = 'a6e12d'
+green-hg = 'a6e12d'
+magenta = 'ae81ff'
+magenta-hg = 'ae81ff'
+red = 'f82570'
+red-hg = 'f82570'
+selection-background = 'fdfff1'
+selection-foreground = '3b3c35'
+white = 'fdfff1'
+white-hg = 'fdfff1'
+yellow = 'e4db73'
+yellow-hg = 'e4db73'

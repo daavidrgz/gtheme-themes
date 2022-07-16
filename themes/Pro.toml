@@ -1,0 +1,28 @@
+name = 'Pro'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '666666'
+blue = '1f08db'
+blue-hg = '0000ff'
+cursor = '4d4d4d'
+cyan = '00a6b2'
+cyan-hg = '00e5e5'
+foreground = 'f2f2f2'
+green = '00a600'
+green-hg = '00d900'
+magenta = 'b200b2'
+magenta-hg = 'e500e5'
+red = '990000'
+red-hg = 'e50000'
+selection-background = '414141'
+selection-foreground = '000000'
+white = 'bfbfbf'
+white-hg = 'e5e5e5'
+yellow = '999900'
+yellow-hg = 'e5e500'

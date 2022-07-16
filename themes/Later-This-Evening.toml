@@ -1,0 +1,28 @@
+name = 'Later-This-Evening'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '212121'
+black = '2b2b2b'
+black-hg = '444747'
+blue = 'a0b9d5'
+blue-hg = '6599d5'
+cursor = '424242'
+cyan = '91beb6'
+cyan-hg = '5fbfad'
+foreground = '949494'
+green = 'afba66'
+green-hg = 'aabb39'
+magenta = 'bf92d5'
+magenta-hg = 'aa52d5'
+red = 'd35a5f'
+red-hg = 'd3222e'
+selection-background = '424242'
+selection-foreground = '212121'
+white = '3b3c3c'
+white-hg = 'c0c2c2'
+yellow = 'e5d289'
+yellow-hg = 'e4bd39'

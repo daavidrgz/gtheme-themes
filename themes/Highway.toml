@@ -1,0 +1,28 @@
+name = 'Highway'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '212224'
+black = '000000'
+black-hg = '5c4f49'
+blue = '006ab3'
+blue-hg = '4fc2fd'
+cursor = 'dfd9b8'
+cyan = '384563'
+cyan-hg = '5c4f49'
+foreground = 'ededed'
+green = '128033'
+green-hg = 'b1d130'
+magenta = '6a2674'
+magenta-hg = 'de0070'
+red = 'cf0d17'
+red-hg = 'ef7d17'
+selection-background = '384563'
+selection-foreground = '212224'
+white = 'ededed'
+white-hg = 'fefffe'
+yellow = 'ffca3d'
+yellow-hg = 'fff11f'

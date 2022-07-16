@@ -1,0 +1,28 @@
+name = 'Nudge'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '658280'
+black-hg = '8ca8a6'
+blue = '304465'
+blue-hg = '415c77'
+cursor = 'ffffff'
+cyan = '175552'
+cyan-hg = '3a6868'
+foreground = 'ffffff'
+green = '184a31'
+green-hg = '28634d'
+magenta = '330801'
+magenta-hg = '532706'
+red = '822f5d'
+red-hg = 'a24b76'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = '110005'
+white-hg = '330801'
+yellow = '9d4500'
+yellow-hg = '9d5823'

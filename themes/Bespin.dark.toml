@@ -1,0 +1,28 @@
+name = 'Bespin.dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '28211c'
+black = '28211c'
+black-hg = '666666'
+blue = '5ea6ea'
+blue-hg = '5ea6ea'
+cursor = '8a8986'
+cyan = 'afc4db'
+cyan-hg = 'afc4db'
+foreground = '8a8986'
+green = '54be0d'
+green-hg = '54be0d'
+magenta = '9b859d'
+magenta-hg = '9b859d'
+red = 'cf6a4c'
+red-hg = 'cf6a4c'
+selection-background = '8a8986'
+selection-foreground = '28211c'
+white = '8a8986'
+white-hg = 'baae9e'
+yellow = 'f9ee98'
+yellow-hg = 'f9ee98'

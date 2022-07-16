@@ -1,0 +1,28 @@
+name = 'Spiderman'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1d1e'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '2b3fff'
+blue-hg = '1d4fff'
+cursor = '2b3fff'
+cyan = '3255ff'
+cyan-hg = '6083ff'
+foreground = 'e2e2e2'
+green = 'e22828'
+green-hg = 'ff3238'
+magenta = '2435db'
+magenta-hg = '737bff'
+red = 'e60712'
+red-hg = 'ff0325'
+selection-background = '070e4f'
+selection-foreground = '1b1d1e'
+white = 'fffef6'
+white-hg = 'fefff9'
+yellow = 'e24655'
+yellow-hg = 'fe3935'

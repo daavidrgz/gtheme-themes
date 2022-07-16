@@ -1,0 +1,28 @@
+name = 'Hund'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '161616'
+black = '222222'
+black-hg = '666666'
+blue = '66AABB'
+blue-hg = 'AACCBB'
+cursor = 'FFFFFF'
+cyan = '6D878D'
+cyan-hg = '42717B'
+foreground = 'FFFFFF'
+green = 'B7CE42'
+green-hg = 'BDE077'
+magenta = 'B7416E'
+magenta-hg = 'E16A98'
+red = 'E84F4F'
+red-hg = 'D23D3D'
+selection-background = 'FFFFFF'
+selection-foreground = '161616'
+white = 'DDDDDD'
+white-hg = 'CCCCCC'
+yellow = 'FEA63C'
+yellow-hg = 'FFE863'

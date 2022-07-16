@@ -1,0 +1,28 @@
+name = 'Relaxed-Afterglow'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '353a44'
+black = '151515'
+black-hg = '636363'
+blue = '6a8799'
+blue-hg = '7eaac7'
+cursor = 'd9d9d9'
+cyan = 'c9dfff'
+cyan-hg = 'acbbd0'
+foreground = 'd9d9d9'
+green = '909d63'
+green-hg = 'a0ac77'
+magenta = 'b06698'
+magenta-hg = 'b06698'
+red = 'bc5653'
+red-hg = 'bc5653'
+selection-background = '6a7984'
+selection-foreground = 'd8d8d8'
+white = 'd9d9d9'
+white-hg = 'f7f7f7'
+yellow = 'ebc17a'
+yellow-hg = 'ebc17a'

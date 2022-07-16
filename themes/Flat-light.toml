@@ -1,0 +1,28 @@
+name = 'Flat-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ECF0F1'
+black = '2C3E50'
+black-hg = '95A5A6'
+blue = '3498DB'
+blue-hg = '3498DB'
+cursor = '7F8C8D'
+cyan = '1ABC9C'
+cyan-hg = '1ABC9C'
+foreground = '7F8C8D'
+green = '2ECC71'
+green-hg = '2ECC71'
+magenta = '9B59B6'
+magenta-hg = '9B59B6'
+red = 'E74C3C'
+red-hg = 'E74C3C'
+selection-background = '7F8C8D'
+selection-foreground = 'ECF0F1'
+white = 'e0e0e0'
+white-hg = 'ECF0F1'
+yellow = 'F1C40F'
+yellow-hg = 'F1C40F'

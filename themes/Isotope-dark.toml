@@ -1,0 +1,28 @@
+name = 'Isotope-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '808080'
+blue = '0066ff'
+blue-hg = '0066ff'
+cursor = 'd0d0d0'
+cyan = '00ffff'
+cyan-hg = '00ffff'
+foreground = 'd0d0d0'
+green = '33ff00'
+green-hg = '33ff00'
+magenta = 'cc00ff'
+magenta-hg = 'cc00ff'
+red = 'ff0000'
+red-hg = 'ff0000'
+selection-background = 'd0d0d0'
+selection-foreground = '000000'
+white = 'd0d0d0'
+white-hg = 'ffffff'
+yellow = 'ff0099'
+yellow-hg = 'ff0099'

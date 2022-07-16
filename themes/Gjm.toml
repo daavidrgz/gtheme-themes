@@ -1,0 +1,28 @@
+name = 'Gjm'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1c1c1c'
+black = '1c1c1c'
+black-hg = '666666'
+blue = '048ac7'
+blue-hg = '48c6ff'
+cursor = 'c5c5c5'
+cyan = '0ac1cd'
+cyan-hg = '63e7f0'
+foreground = 'c5c5c5'
+green = 'cee318'
+green-hg = 'ccff00'
+magenta = '833c9f'
+magenta-hg = 'be67e1'
+red = 'ff005b'
+red-hg = 'ff00a0'
+selection-background = 'c5c5c5'
+selection-foreground = '1c1c1c'
+white = 'e5e5e5'
+white-hg = 'f3f3f3'
+yellow = 'ffe755'
+yellow-hg = 'ff9f00'

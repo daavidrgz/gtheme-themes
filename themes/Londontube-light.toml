@@ -1,0 +1,28 @@
+name = 'Londontube-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '231f20'
+black-hg = '737171'
+blue = '009ddc'
+blue-hg = '009ddc'
+cursor = '5a5758'
+cyan = '85cebc'
+cyan-hg = '85cebc'
+foreground = '5a5758'
+green = '00853e'
+green-hg = '00853e'
+magenta = '98005d'
+magenta-hg = '98005d'
+red = 'ee2e24'
+red-hg = 'ee2e24'
+selection-background = '5a5758'
+selection-foreground = 'ffffff'
+white = 'd9d8d8'
+white-hg = 'ffffff'
+yellow = 'ffd204'
+yellow-hg = 'ffd204'

@@ -1,0 +1,28 @@
+name = 'X-erosion'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '181512'
+black = '332D29'
+black-hg = '817267'
+blue = '646A6D'
+blue-hg = '71777A'
+cursor = 'BEA492'
+cyan = '4B5C5E'
+cyan-hg = '556D70'
+foreground = 'BEA492'
+green = '746C48'
+green-hg = '857B52'
+magenta = '605655'
+magenta-hg = '656565'
+red = '8C644C'
+red-hg = '9F7155'
+selection-background = 'BEA492'
+selection-foreground = '181512'
+white = '504339'
+white-hg = '9A875F'
+yellow = '908A66'
+yellow-hg = '9C956E'

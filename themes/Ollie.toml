@@ -1,0 +1,28 @@
+name = 'Ollie'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '212024'
+black = '000000'
+black-hg = '5a3625'
+blue = '2c56ab'
+blue-hg = '4487ff'
+cursor = '5b6da7'
+cyan = '1fa5ab'
+cyan-hg = '1efaff'
+foreground = '8a8dae'
+green = '31ab60'
+green-hg = '3bff99'
+magenta = 'af8427'
+magenta-hg = 'ffc21c'
+red = 'ab2e30'
+red-hg = 'ff3d48'
+selection-background = '1e3965'
+selection-foreground = '212024'
+white = '8a8dab'
+white-hg = '5b6da7'
+yellow = 'ab4200'
+yellow-hg = 'ff5e1e'

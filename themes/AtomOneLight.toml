@@ -1,0 +1,28 @@
+name = 'AtomOneLight'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f8f8f8'
+black = '000000'
+black-hg = '000000'
+blue = '2f5af3'
+blue-hg = '2f5af3'
+cursor = 'bbbbbb'
+cyan = '3e953a'
+cyan-hg = '3e953a'
+foreground = '2a2b33'
+green = '3e953a'
+green-hg = '3e953a'
+magenta = '950095'
+magenta-hg = 'a00095'
+red = 'de3d35'
+red-hg = 'de3d35'
+selection-background = 'ececec'
+selection-foreground = 'f8f8f8'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = 'd2b67b'
+yellow-hg = 'd2b67b'

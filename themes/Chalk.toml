@@ -1,0 +1,28 @@
+name = 'Chalk'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2b2c2e'
+black = '7c8a8f'
+black-hg = '888888'
+blue = '2a7fac'
+blue-hg = '4095ff'
+cursor = '708183'
+cyan = '44a799'
+cyan-hg = '52ccbd'
+foreground = 'd2d8d9'
+green = '789a69'
+green-hg = '80c46f'
+magenta = 'bc4f5a'
+magenta-hg = 'fb5175'
+red = 'b23a51'
+red-hg = 'f24840'
+selection-background = 'e3e8ed'
+selection-foreground = '2b2c2e'
+white = 'd2d8d9'
+white-hg = 'd2d8d9'
+yellow = 'b9ab4a'
+yellow-hg = 'ffeb62'

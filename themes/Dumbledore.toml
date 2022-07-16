@@ -1,0 +1,28 @@
+name = 'Dumbledore'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '422553'
+black = '2b283d'
+black-hg = '413e53'
+blue = '415baf'
+blue-hg = '946a2c'
+cursor = 'c4c8c5'
+cyan = '008aff'
+cyan-hg = '25de50'
+foreground = 'c4c8c5'
+green = '3e7c54'
+green-hg = 'aaaaaa'
+magenta = '9445ae'
+magenta-hg = 'b294ba'
+red = 'ae0000'
+red-hg = 'd3a624'
+selection-background = '008aff'
+selection-foreground = '422553'
+white = '850000'
+white-hg = 'c9c9c9'
+yellow = 'f0c75e'
+yellow-hg = '716254'

@@ -1,0 +1,28 @@
+name = 'Atelierheath-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f7f3f7'
+black = '1b181b'
+black-hg = '776977'
+blue = '516aec'
+blue-hg = '516aec'
+cursor = '695d69'
+cyan = '159393'
+cyan-hg = '159393'
+foreground = '695d69'
+green = '379a37'
+green-hg = '379a37'
+magenta = '7b59c0'
+magenta-hg = '7b59c0'
+red = 'ca402b'
+red-hg = 'ca402b'
+selection-background = '695d69'
+selection-foreground = 'f7f3f7'
+white = 'ab9bab'
+white-hg = 'f7f3f7'
+yellow = 'bb8a35'
+yellow-hg = 'bb8a35'

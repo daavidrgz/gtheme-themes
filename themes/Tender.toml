@@ -1,0 +1,28 @@
+name = 'Tender'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '282828'
+black = '282828'
+black-hg = '4c4c4c'
+blue = 'b3deef'
+blue-hg = 'b3deef'
+cursor = 'eeeeee'
+cyan = '73cef4'
+cyan-hg = '73cef4'
+foreground = 'eeeeee'
+green = 'c9d05c'
+green-hg = 'c9d05c'
+magenta = 'd3b987'
+magenta-hg = 'd3b987'
+red = 'f43753'
+red-hg = 'f43753'
+selection-background = 'eeeeee'
+selection-foreground = '282828'
+white = 'eeeeee'
+white-hg = 'feffff'
+yellow = 'ffc24b'
+yellow-hg = 'ffc24b'

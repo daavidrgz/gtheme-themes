@@ -1,0 +1,28 @@
+name = 'Solarized-Dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '001e26'
+black = '002731'
+black-hg = '001e26'
+blue = '2075c7'
+blue-hg = '708183'
+cursor = '708183'
+cyan = '259185'
+cyan-hg = '81908f'
+foreground = '708183'
+green = '728905'
+green-hg = '465a61'
+magenta = 'c61b6e'
+magenta-hg = '5856b9'
+red = 'd01b24'
+red-hg = 'bd3612'
+selection-background = '002731'
+selection-foreground = '001e26'
+white = 'e9e2cb'
+white-hg = 'fcf4dc'
+yellow = 'a57705'
+yellow-hg = '52676f'

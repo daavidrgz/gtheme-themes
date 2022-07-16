@@ -1,0 +1,28 @@
+name = 'Bleh-1'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '666666'
+black-hg = '8c847f'
+blue = '657a99'
+blue-hg = '4c83bf'
+cursor = 'ffffff'
+cyan = '65998d'
+cyan-hg = '4dbda8'
+foreground = 'ffffff'
+green = '889965'
+green-hg = '95b548'
+magenta = '8b6599'
+magenta-hg = 'a04bbd'
+red = '996578'
+red-hg = 'bd4b76'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'a5a5a4'
+white-hg = '848484'
+yellow = '998565'
+yellow-hg = 'bd814b'

@@ -1,0 +1,28 @@
+name = 'Seabird'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '0b141a'
+black-hg = '0b141a'
+blue = '0099ff'
+blue-hg = '0099ff'
+cursor = '61707a'
+cyan = '00a5ab'
+cyan-hg = '00a5ab'
+foreground = '61707a'
+green = '11ab00'
+green-hg = '11ab00'
+magenta = '9854ff'
+magenta-hg = '9854ff'
+red = 'ff4053'
+red-hg = 'ff4053'
+selection-background = '61707a'
+selection-foreground = 'ffffff'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'bf8c00'
+yellow-hg = 'bf8c00'

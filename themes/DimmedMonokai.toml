@@ -1,0 +1,28 @@
+name = 'DimmedMonokai'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1e1e1e'
+black = '3a3c43'
+black-hg = '888987'
+blue = '4e76a1'
+blue-hg = '176ce3'
+cursor = 'f83d19'
+cyan = '568ea3'
+cyan-hg = '2d6f6c'
+foreground = 'b8bcb9'
+green = '869a3a'
+green-hg = '0e712e'
+magenta = '855b8d'
+magenta-hg = 'fb0067'
+red = 'be3e48'
+red-hg = 'fb001e'
+selection-background = '292c31'
+selection-foreground = '1e1e1e'
+white = 'b8bcb9'
+white-hg = 'fcffb8'
+yellow = 'c4a535'
+yellow-hg = 'c37033'

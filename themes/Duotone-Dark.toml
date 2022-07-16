@@ -1,0 +1,28 @@
+name = 'Duotone-Dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1f1c27'
+black = '1f1c27'
+black-hg = '353146'
+blue = 'ffc183'
+blue-hg = 'ffc183'
+cursor = 'ff9738'
+cyan = '2388ff'
+cyan-hg = '2388ff'
+foreground = 'b6a0ff'
+green = '2dcc72'
+green-hg = '2dcc72'
+magenta = 'dd8d40'
+magenta-hg = 'dd8d40'
+red = 'd8393d'
+red-hg = 'd8393d'
+selection-background = '353146'
+selection-foreground = '1f1c27'
+white = 'b6a0ff'
+white-hg = 'e9e4ff'
+yellow = 'd8b76e'
+yellow-hg = 'd8b76e'

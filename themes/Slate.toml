@@ -1,0 +1,28 @@
+name = 'Slate'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '212121'
+black = '212121'
+black-hg = 'ffffff'
+blue = '254a49'
+blue-hg = '79afd2'
+cursor = '87d2c3'
+cyan = '14ab9c'
+cyan-hg = '8bdee0'
+foreground = '34b0d2'
+green = '80d778'
+green-hg = 'bdffa8'
+magenta = 'a380d3'
+magenta-hg = 'c4a7d8'
+red = 'e1a7bf'
+red-hg = 'ffccd8'
+selection-background = '0f3754'
+selection-foreground = '212121'
+white = '02c4e0'
+white-hg = 'e0e0e0'
+yellow = 'c4c9bf'
+yellow-hg = 'd0cbc9'

@@ -1,0 +1,28 @@
+name = 'Eighties-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2d2d2d'
+black = '2d2d2d'
+black-hg = '747369'
+blue = '6699cc'
+blue-hg = '6699cc'
+cursor = 'd3d0c8'
+cyan = '66cccc'
+cyan-hg = '66cccc'
+foreground = 'd3d0c8'
+green = '99cc99'
+green-hg = '99cc99'
+magenta = 'cc99cc'
+magenta-hg = 'cc99cc'
+red = 'f2777a'
+red-hg = 'f2777a'
+selection-background = 'd3d0c8'
+selection-foreground = '2d2d2d'
+white = 'd3d0c8'
+white-hg = 'f2f0ec'
+yellow = 'ffcc66'
+yellow-hg = 'ffcc66'

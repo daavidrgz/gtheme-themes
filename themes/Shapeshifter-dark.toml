@@ -1,0 +1,28 @@
+name = 'Shapeshifter-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '343434'
+blue = '3b48e3'
+blue-hg = '3b48e3'
+cursor = 'ababab'
+cyan = '23edda'
+cyan-hg = '23edda'
+foreground = 'ababab'
+green = '0ed839'
+green-hg = '0ed839'
+magenta = 'f996e2'
+magenta-hg = 'f996e2'
+red = 'e92f2f'
+red-hg = 'e92f2f'
+selection-background = 'ababab'
+selection-foreground = '000000'
+white = 'ababab'
+white-hg = 'f9f9f9'
+yellow = 'dddd13'
+yellow-hg = 'dddd13'

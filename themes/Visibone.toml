@@ -1,0 +1,28 @@
+name = 'Visibone'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '666666'
+black-hg = '999999'
+blue = '6699cc'
+blue-hg = '99ccff'
+cursor = 'ffffff'
+cyan = '66cccc'
+cyan-hg = '99ffff'
+foreground = 'ffffff'
+green = '66cc99'
+green-hg = '99ffcc'
+magenta = 'cc6699'
+magenta-hg = 'ff99cc'
+red = 'cc6666'
+red-hg = 'ff9999'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'cccccc'
+white-hg = 'ffffff'
+yellow = 'cc9966'
+yellow-hg = 'ffcc99'

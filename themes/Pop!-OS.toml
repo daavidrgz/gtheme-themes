@@ -1,0 +1,28 @@
+name = 'Pop!-OS'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '333333'
+black = '333333'
+black-hg = '88807C'
+blue = '3465A4'
+blue-hg = '48B9C7'
+cursor = 'F2F2F2'
+cyan = '06989A'
+cyan-hg = '34E2E2'
+foreground = 'F2F2F2'
+green = '4E9A06'
+green-hg = '73C48F'
+magenta = '75507B'
+magenta-hg = 'AD7FA8'
+red = 'CC0000'
+red-hg = 'F15D22'
+selection-background = 'F2F2F2'
+selection-foreground = '333333'
+white = 'D3D7CF'
+white-hg = 'EEEEEC'
+yellow = 'C4A000'
+yellow-hg = 'FFCE51'

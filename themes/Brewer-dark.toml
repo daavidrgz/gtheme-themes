@@ -1,0 +1,28 @@
+name = 'Brewer-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0c0d0e'
+black = '0c0d0e'
+black-hg = '737475'
+blue = '3182bd'
+blue-hg = '3182bd'
+cursor = 'b7b8b9'
+cyan = '80b1d3'
+cyan-hg = '80b1d3'
+foreground = 'b7b8b9'
+green = '31a354'
+green-hg = '31a354'
+magenta = '756bb1'
+magenta-hg = '756bb1'
+red = 'e31a1c'
+red-hg = 'e31a1c'
+selection-background = 'b7b8b9'
+selection-foreground = '0c0d0e'
+white = 'b7b8b9'
+white-hg = 'fcfdfe'
+yellow = 'dca060'
+yellow-hg = 'dca060'

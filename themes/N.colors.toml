@@ -1,0 +1,28 @@
+name = 'N.colors'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '393939'
+black-hg = '474747'
+blue = 'a8ceea'
+blue-hg = '7eb6ff'
+cursor = 'ffffff'
+cyan = 'c2efff'
+cyan-hg = '9ce9ff'
+foreground = 'ffffff'
+green = 'e2ffc7'
+green-hg = 'dbffb3'
+magenta = 'e2b5cc'
+magenta-hg = 'e296ff'
+red = 'ff9f95'
+red-hg = 'ff8d80'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'dddddd'
+white-hg = 'dddddd'
+yellow = 'ffffb9'
+yellow-hg = 'ffbe64'

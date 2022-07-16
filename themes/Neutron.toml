@@ -1,0 +1,28 @@
+name = 'Neutron'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1d22'
+black = '22252b'
+black-hg = '22252b'
+blue = '6a7b92'
+blue-hg = '6a7b92'
+cursor = 'f6f6ec'
+cyan = '3f93a8'
+cyan-hg = '3f93a8'
+foreground = 'e6e8ee'
+green = '5ab977'
+green-hg = '5ab977'
+magenta = 'a3799d'
+magenta-hg = 'a3799d'
+red = 'b53f36'
+red-hg = 'b53f36'
+selection-background = '2e353d'
+selection-foreground = '1b1d22'
+white = 'e6e8ee'
+white-hg = 'ebedf2'
+yellow = 'ddb566'
+yellow-hg = 'ddb566'

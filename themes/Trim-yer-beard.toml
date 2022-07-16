@@ -1,0 +1,28 @@
+name = 'Trim-yer-beard'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '191716'
+black = '0F0E0D'
+black-hg = '383332'
+blue = '43454F'
+blue-hg = '65788F'
+cursor = 'DABA8B'
+cyan = '5C6652'
+cyan-hg = '718062'
+foreground = 'DABA8B'
+green = '57553C'
+green-hg = '898471'
+magenta = '604848'
+magenta-hg = '755E4A'
+red = '845336'
+red-hg = '8C4F4A'
+selection-background = 'DABA8B'
+selection-foreground = '191716'
+white = 'A18B62'
+white-hg = 'BC9D66'
+yellow = 'A17E3E'
+yellow-hg = 'C8B491'

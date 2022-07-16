@@ -1,0 +1,28 @@
+name = 'AlienBlood'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0f160f'
+black = '112615'
+black-hg = '3c4711'
+blue = '2f697f'
+blue-hg = '00a9df'
+cursor = '73f990'
+cyan = '317f76'
+cyan-hg = '00dfc3'
+foreground = '637d75'
+green = '2f7e25'
+green-hg = '18e000'
+magenta = '47577e'
+magenta-hg = '0058df'
+red = '7f2b26'
+red-hg = 'df8008'
+selection-background = '1d4025'
+selection-foreground = '0f160f'
+white = '647d75'
+white-hg = '73f990'
+yellow = '707f23'
+yellow-hg = 'bde000'

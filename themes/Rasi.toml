@@ -1,0 +1,28 @@
+name = 'Rasi'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '4e82aa'
+blue-hg = '0c73c2'
+cursor = 'ffffff'
+cyan = '465457'
+cyan-hg = '899ca1'
+foreground = 'ffffff'
+green = '82b414'
+green-hg = 'b6e354'
+magenta = '8c54fe'
+magenta-hg = '9e6ffe'
+red = 'f92672'
+red-hg = 'ff5995'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'ccccc6'
+white-hg = 'f8f8f2'
+yellow = 'fd971f'
+yellow-hg = 'feed6c'

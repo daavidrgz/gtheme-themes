@@ -1,0 +1,28 @@
+name = 'Pulp'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '86817e'
+black-hg = '86817e'
+blue = '68778c'
+blue-hg = '68778c'
+cursor = 'ffffff'
+cyan = '86abd9'
+cyan-hg = '86abd9'
+foreground = 'ffffff'
+green = '688c7d'
+green-hg = '688c7d'
+magenta = 'fdb3b2'
+magenta-hg = '8c686a'
+red = 'd75756'
+red-hg = 'a63a3a'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'f7f8f2'
+white-hg = 'f7f8f2'
+yellow = 'ffb365'
+yellow-hg = 'ffb365'

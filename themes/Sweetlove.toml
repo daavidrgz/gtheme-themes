@@ -1,0 +1,28 @@
+name = 'Sweetlove'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1F1F1F'
+black = '4A3637'
+black-hg = '402E2E'
+blue = '535C5C'
+blue-hg = '444B4B'
+cursor = 'C0B18B'
+cyan = '6D715E'
+cyan-hg = '585C49'
+foreground = 'C0B18B'
+green = '7B8748'
+green-hg = '647035'
+magenta = '775759'
+magenta-hg = '614445'
+red = 'D17B49'
+red-hg = 'AC5D2F'
+selection-background = 'C0B18B'
+selection-foreground = '1F1F1F'
+white = 'C0B18B'
+white-hg = '978965'
+yellow = 'AF865A'
+yellow-hg = '8F6840'

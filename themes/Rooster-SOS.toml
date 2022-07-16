@@ -1,0 +1,28 @@
+name = 'Rooster-SOS'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '373b43'
+black = '373b43'
+black-hg = '373b43'
+blue = 'afb171'
+blue-hg = 'afb171'
+cursor = '78796f'
+cyan = '63e860'
+cyan-hg = '63e860'
+foreground = '78796f'
+green = 'fbfd59'
+green-hg = 'fbfd59'
+magenta = 'b387e7'
+magenta-hg = 'b387e7'
+red = 'fdcd39'
+red-hg = 'fdcd39'
+selection-background = '78796f'
+selection-foreground = '373b43'
+white = 'efdecb'
+white-hg = 'efdecb'
+yellow = 'deac40'
+yellow-hg = 'deac40'

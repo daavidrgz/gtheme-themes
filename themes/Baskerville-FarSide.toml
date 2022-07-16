@@ -1,0 +1,28 @@
+name = 'Baskerville-FarSide'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '303030'
+black-hg = '5e5e5e'
+blue = '6751a6'
+blue-hg = 'd5b8ff'
+cursor = '919191'
+cyan = '0061b1'
+cyan-hg = '93c9ff'
+foreground = '919191'
+green = '006ca5'
+green-hg = '3bd6ff'
+magenta = '913e88'
+magenta-hg = 'ffa7f6'
+red = 'a43261'
+red-hg = 'ff9fc9'
+selection-background = '919191'
+selection-foreground = '000000'
+white = 'c6c6c6'
+white-hg = 'ffffff'
+yellow = '007086'
+yellow-hg = '00ddf4'

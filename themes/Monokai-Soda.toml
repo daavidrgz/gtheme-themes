@@ -1,0 +1,28 @@
+name = 'Monokai-Soda'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '191919'
+black = '191919'
+black-hg = '615e4b'
+blue = '9c64fe'
+blue-hg = '9c64fe'
+cursor = 'f6f6ec'
+cyan = '57d1ea'
+cyan-hg = '57d1ea'
+foreground = 'c4c4b5'
+green = '97e023'
+green-hg = '97e023'
+magenta = 'f3005f'
+magenta-hg = 'f3005f'
+red = 'f3005f'
+red-hg = 'f3005f'
+selection-background = '343434'
+selection-foreground = '191919'
+white = 'c4c4b5'
+white-hg = 'f6f6ee'
+yellow = 'fa8419'
+yellow-hg = 'dfd561'

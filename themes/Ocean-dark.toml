@@ -1,0 +1,28 @@
+name = 'Ocean-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2b303b'
+black = '2b303b'
+black-hg = '65737e'
+blue = '8fa1b3'
+blue-hg = '8fa1b3'
+cursor = 'c0c5ce'
+cyan = '96b5b4'
+cyan-hg = '96b5b4'
+foreground = 'c0c5ce'
+green = 'a3be8c'
+green-hg = 'a3be8c'
+magenta = 'b48ead'
+magenta-hg = 'b48ead'
+red = 'bf616a'
+red-hg = 'bf616a'
+selection-background = 'c0c5ce'
+selection-foreground = '2b303b'
+white = 'c0c5ce'
+white-hg = 'eff1f5'
+yellow = 'ebcb8b'
+yellow-hg = 'ebcb8b'

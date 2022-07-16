@@ -1,0 +1,28 @@
+name = 'Misterioso'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2d3743'
+black = '000000'
+black-hg = '545454'
+blue = '338e86'
+blue-hg = '23d6d6'
+cursor = '000000'
+cyan = '23d6d6'
+cyan-hg = '00ece1'
+foreground = 'e1e1e0'
+green = '74ae68'
+green-hg = '74cc68'
+magenta = '9413e5'
+magenta-hg = 'ff37ff'
+red = 'ff4141'
+red-hg = 'ff3241'
+selection-background = '2d37ff'
+selection-foreground = '2d3743'
+white = 'e1e1df'
+white-hg = 'ffffff'
+yellow = 'ffac28'
+yellow-hg = 'ffb928'

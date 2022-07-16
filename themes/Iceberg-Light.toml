@@ -1,0 +1,28 @@
+name = 'Iceberg-Light'
+
+[extras]
+vscode = ['Iceberg Light']
+wallpaper = ['~/.config/gtheme/wallpapers/Iceberg/snow-mountain.jpg']
+
+[colors]
+background = 'e8e9ec'
+black = 'dcdfe7'
+black-hg = '8389a3'
+blue = '2d539e'
+blue-hg = '22478e'
+cursor = '33374c'
+cyan = '3f83a6'
+cyan-hg = '327698'
+foreground = '33374c'
+green = '668e3d'
+green-hg = '598030'
+magenta = '7759b4'
+magenta-hg = '6845ad'
+red = 'cc517a'
+red-hg = 'cc3768'
+selection-background = '33374c'
+selection-foreground = 'e8e9ec'
+white = '33374c'
+white-hg = '262a3f'
+yellow = 'c57339'
+yellow-hg = 'b6662d'

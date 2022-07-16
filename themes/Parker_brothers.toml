@@ -1,0 +1,28 @@
+name = 'Parker_brothers'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '322a2c'
+black-hg = '46423b'
+blue = '434045'
+blue-hg = '908862'
+cursor = 'ffffff'
+cyan = '394745'
+cyan-hg = '393e38'
+foreground = 'ffffff'
+green = '344b1b'
+green-hg = '76550f'
+magenta = '5c1e25'
+magenta-hg = '624a35'
+red = '79220e'
+red-hg = 'aa261f'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'ae8842'
+white-hg = 'a59058'
+yellow = 'b45b00'
+yellow-hg = 'b57f02'

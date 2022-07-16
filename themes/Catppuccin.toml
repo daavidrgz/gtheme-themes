@@ -1,0 +1,28 @@
+name = 'Catppuccin'
+
+[extras]
+vscode = ['Catppuccin']
+wallpaper = ['~/.config/gtheme/wallpapers/Catppuccin/cat-waves.png']
+
+[colors]
+background = '1E1E2E'
+black = '6E6C7E'
+black-hg = '988BA2'
+blue = '96CDFB'
+blue-hg = '96CDFB'
+cursor = 'F5E0DC'
+cyan = '89DCEB'
+cyan-hg = '89DCEB'
+foreground = 'D9E0EE'
+green = 'ABE9B3'
+green-hg = 'ABE9B3'
+magenta = 'F5C2E7'
+magenta-hg = 'F5C2E7'
+red = 'F28FAD'
+red-hg = 'F28FAD'
+selection-background = '575268'
+selection-foreground = 'D9E0EE'
+white = 'D9E0EE'
+white-hg = 'D9E0EE'
+yellow = 'FAE3B0'
+yellow-hg = 'FAE3B0'

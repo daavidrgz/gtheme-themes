@@ -1,0 +1,28 @@
+name = 'SpaceGray'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '20232c'
+black = '000000'
+black-hg = '000000'
+blue = '7c8fa3'
+blue-hg = '7c8fa3'
+cursor = 'b2b8c2'
+cyan = '84a6a4'
+cyan-hg = '84a6a4'
+foreground = 'b2b8c2'
+green = '87b279'
+green-hg = '87b279'
+magenta = 'a37996'
+magenta-hg = 'a37996'
+red = 'af4b57'
+red-hg = 'af4b57'
+selection-background = '15171e'
+selection-foreground = '20232c'
+white = 'b2b8c2'
+white-hg = 'fffefe'
+yellow = 'e5c078'
+yellow-hg = 'e5c078'

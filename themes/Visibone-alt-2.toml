@@ -1,0 +1,28 @@
+name = 'Visibone-alt-2'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '333333'
+black = '666666'
+black-hg = '999999'
+blue = '6699CC'
+blue-hg = '99CCFF'
+cursor = 'CCCCCC'
+cyan = '66CC99'
+cyan-hg = '99FFCC'
+foreground = 'CCCCCC'
+green = '99CC66'
+green-hg = 'CCFF99'
+magenta = '9966CC'
+magenta-hg = 'CC99FF'
+red = 'CC6699'
+red-hg = 'FF99CC'
+selection-background = 'CCCCCC'
+selection-foreground = '333333'
+white = 'CCCCCC'
+white-hg = 'FFFFFF'
+yellow = 'CC9966'
+yellow-hg = 'FFCC99'

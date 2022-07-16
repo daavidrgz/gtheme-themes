@@ -1,0 +1,28 @@
+name = 'Baskerville-ivorydark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2d2c28'
+black = '5b5955'
+black-hg = '707277'
+blue = '6a8dca'
+blue-hg = '98bbfb'
+cursor = 'a4a6ab'
+cyan = '019baa'
+cyan-hg = '53cad9'
+foreground = 'a4a6ab'
+green = '559a6a'
+green-hg = '82c896'
+magenta = 'b577ac'
+magenta-hg = 'e5a4db'
+red = 'c4756e'
+red-hg = 'f6a299'
+selection-background = 'a4a6ab'
+selection-foreground = '2d2c28'
+white = 'dbdde2'
+white-hg = 'f7f9ff'
+yellow = '9b8a4b'
+yellow-hg = 'cab775'

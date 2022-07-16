@@ -1,0 +1,28 @@
+name = 'Brewer-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'fcfdfe'
+black = '0c0d0e'
+black-hg = '737475'
+blue = '3182bd'
+blue-hg = '3182bd'
+cursor = '515253'
+cyan = '80b1d3'
+cyan-hg = '80b1d3'
+foreground = '515253'
+green = '31a354'
+green-hg = '31a354'
+magenta = '756bb1'
+magenta-hg = '756bb1'
+red = 'e31a1c'
+red-hg = 'e31a1c'
+selection-background = '515253'
+selection-foreground = 'fcfdfe'
+white = 'b7b8b9'
+white-hg = 'fcfdfe'
+yellow = 'dca060'
+yellow-hg = 'dca060'

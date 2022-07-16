@@ -1,0 +1,28 @@
+name = 'Muziecamono'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '090909'
+blue = '444444'
+blue-hg = '484848'
+cursor = 'ffffff'
+cyan = '666666'
+cyan-hg = '707070'
+foreground = 'ffffff'
+green = '222222'
+green-hg = '272727'
+magenta = '555555'
+magenta-hg = '595959'
+red = '111111'
+red-hg = '181818'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = '777777'
+white-hg = '818181'
+yellow = '333333'
+yellow-hg = '393939'

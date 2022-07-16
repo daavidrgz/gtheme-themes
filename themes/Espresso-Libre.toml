@@ -1,0 +1,28 @@
+name = 'Espresso-Libre'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '2a211c'
+black = '000000'
+black-hg = '545753'
+blue = '0066ff'
+blue-hg = '43a8ed'
+cursor = 'ffffff'
+cyan = '05989a'
+cyan-hg = '34e2e2'
+foreground = 'b8a898'
+green = '1a921c'
+green-hg = '9aff87'
+magenta = 'c5656b'
+magenta-hg = 'ff8089'
+red = 'cc0000'
+red-hg = 'ef2828'
+selection-background = 'c3dcff'
+selection-foreground = '2a211c'
+white = 'd3d7cf'
+white-hg = 'ededec'
+yellow = 'efe43a'
+yellow-hg = 'fffa5c'

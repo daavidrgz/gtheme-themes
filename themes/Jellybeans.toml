@@ -1,0 +1,28 @@
+name = 'Jellybeans'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '111111'
+black = '919191'
+black-hg = 'bdbdbd'
+blue = '96bddb'
+blue-hg = 'b1d7f6'
+cursor = 'ffa460'
+cyan = '00988e'
+cyan-hg = '19b2a7'
+foreground = 'dedede'
+green = '94b978'
+green-hg = 'bddeab'
+magenta = 'e1c0fa'
+magenta-hg = 'fbdaff'
+red = 'e17373'
+red-hg = 'ffa0a0'
+selection-background = '464d91'
+selection-foreground = '111111'
+white = 'dedede'
+white-hg = 'ffffff'
+yellow = 'ffb97b'
+yellow-hg = 'ffdba0'

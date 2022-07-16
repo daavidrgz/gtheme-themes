@@ -1,0 +1,28 @@
+name = 'Monokai-Pro'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '403e41'
+black = '403e41'
+black-hg = '727072'
+blue = 'fc9867'
+blue-hg = 'fc9867'
+cursor = 'fcfcfa'
+cyan = '78dce8'
+cyan-hg = '78dce8'
+foreground = 'fcfcfa'
+green = 'a9dc76'
+green-hg = 'a9dc76'
+magenta = 'ab9df2'
+magenta-hg = 'ab9df2'
+red = 'ff6188'
+red-hg = 'ff6188'
+selection-background = 'fcfcfa'
+selection-foreground = '403e41'
+white = 'fcfcfa'
+white-hg = 'fcfcfa'
+yellow = 'ffd866'
+yellow-hg = 'ffd866'

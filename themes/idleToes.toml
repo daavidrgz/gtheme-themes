@@ -1,0 +1,28 @@
+name = 'idleToes'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '323232'
+black = '323232'
+black-hg = '535353'
+blue = '4098ff'
+blue-hg = '5eb7f7'
+cursor = 'd6d6d6'
+cyan = 'bed6ff'
+cyan-hg = 'dcf4ff'
+foreground = 'ffffff'
+green = '7fe173'
+green-hg = '9dff90'
+magenta = 'f57fff'
+magenta-hg = 'ff9dff'
+red = 'd25252'
+red-hg = 'f07070'
+selection-background = '5b5b5b'
+selection-foreground = '323232'
+white = 'eeeeec'
+white-hg = 'ffffff'
+yellow = 'ffc66d'
+yellow-hg = 'ffe48b'

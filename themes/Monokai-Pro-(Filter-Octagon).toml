@@ -1,0 +1,28 @@
+name = 'Monokai-Pro-(Filter-Octagon)'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3a3d4b'
+black = '3a3d4b'
+black-hg = '696d77'
+blue = 'ff9b5e'
+blue-hg = 'ff9b5e'
+cursor = 'eaf2f1'
+cyan = '9cd1bb'
+cyan-hg = '9cd1bb'
+foreground = 'eaf2f1'
+green = 'bad761'
+green-hg = 'bad761'
+magenta = 'c39ac9'
+magenta-hg = 'c39ac9'
+red = 'ff657a'
+red-hg = 'ff657a'
+selection-background = 'eaf2f1'
+selection-foreground = '3a3d4b'
+white = 'eaf2f1'
+white-hg = 'eaf2f1'
+yellow = 'ffd76d'
+yellow-hg = 'ffd76d'

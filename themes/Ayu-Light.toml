@@ -1,0 +1,28 @@
+name = 'Ayu-Light'
+
+[extras]
+vscode = ['Ayu Light']
+wallpaper = ['']
+
+[colors]
+background = 'fafafa'
+black = '000000'
+black-hg = '323232'
+blue = '41a6d9'
+blue-hg = '73d7ff'
+cursor = 'ff6900'
+cyan = '4cbe99'
+cyan-hg = '7ff0cb'
+foreground = '5b6673'
+green = '86b200'
+green-hg = 'b8e532'
+magenta = 'f07078'
+magenta-hg = 'ffa3aa'
+red = 'ff3333'
+red-hg = 'ff6565'
+selection-background = 'f0ede4'
+selection-foreground = 'fafafa'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'f19618'
+yellow-hg = 'ffc849'

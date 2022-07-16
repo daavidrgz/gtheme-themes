@@ -1,0 +1,28 @@
+name = 'Everforest-Dark-Medium'
+
+[extras]
+vscode = ['Everforest Dark']
+wallpaper = ['~/.config/gtheme/wallpapers/Everforest/forest.jpg']
+
+[colors]
+background = '323d43'
+black = '4a555b'
+black-hg = '525c62'
+blue = '7fbbb3'
+blue-hg = '7fbbb3'
+cursor = '7fbbb3'
+cyan = '83c092'
+cyan-hg = '83c092'
+foreground = 'd8cacc'
+green = 'a7c080'
+green-hg = 'a7c080'
+magenta = 'd699b6'
+magenta-hg = 'd699b6'
+red = 'e68183'
+red-hg = 'e68183'
+selection-background = '525c62'
+selection-foreground = '3c474d'
+white = 'd8caac'
+white-hg = 'd8caac'
+yellow = 'dbbc7f'
+yellow-hg = 'dbbc7f'

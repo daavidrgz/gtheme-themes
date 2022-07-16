@@ -1,0 +1,28 @@
+name = 'SeaShells'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '08131a'
+black = '17384c'
+black-hg = '424b52'
+blue = '1d4850'
+blue-hg = '1abcdd'
+cursor = 'fba02f'
+cyan = '50a3b5'
+cyan-hg = '86abb3'
+foreground = 'deb88d'
+green = '027b9b'
+green-hg = '618c98'
+magenta = '68d3f0'
+magenta-hg = 'bbe3ee'
+red = 'd05023'
+red-hg = 'd38677'
+selection-background = '1e4862'
+selection-foreground = '08131a'
+white = 'deb88d'
+white-hg = 'fee3cd'
+yellow = 'fba02f'
+yellow-hg = 'fdd29e'

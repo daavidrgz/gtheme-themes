@@ -1,0 +1,28 @@
+name = 'Colors-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '111111'
+black = '111111'
+black-hg = '777777'
+blue = '0074d9'
+blue-hg = '0074d9'
+cursor = 'bbbbbb'
+cyan = '7fdbff'
+cyan-hg = '7fdbff'
+foreground = 'bbbbbb'
+green = '2ecc40'
+green-hg = '2ecc40'
+magenta = 'b10dc9'
+magenta-hg = 'b10dc9'
+red = 'ff4136'
+red-hg = 'ff4136'
+selection-background = 'bbbbbb'
+selection-foreground = '111111'
+white = 'bbbbbb'
+white-hg = 'ffffff'
+yellow = 'ffdc00'
+yellow-hg = 'ffdc00'

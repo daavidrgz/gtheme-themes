@@ -1,0 +1,29 @@
+name = 'WinterIsComing'
+
+[extras]
+intellij-idea = ['']
+vscode = ['Winter is Coming (Dark Blue)']
+wallpaper = ['~/.config/gtheme/wallpapers/WinterIsComing/stark.jpg']
+
+[colors]
+background = '011627'
+black = '0B2941'
+black-hg = '0B2941'
+blue = '83ABEE'
+blue-hg = '83ABEE'
+cursor = 'cccccc'
+cyan = '00BEF7'
+cyan-hg = '00BEF7'
+foreground = 'cccccc'
+green = 'BBEEBE'
+green-hg = 'BBEEBE'
+magenta = 'A27AC4'
+magenta-hg = 'A27AC4'
+red = 'f76a6a'
+red-hg = 'f76a6a'
+selection-background = 'cccccc'
+selection-foreground = '011627'
+white = 'e5e5e5'
+white-hg = 'e5e5e5'
+yellow = 'F5EAB4'
+yellow-hg = 'F5EAB4'

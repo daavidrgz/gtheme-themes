@@ -1,0 +1,28 @@
+name = 'Dawn'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '181B20'
+black = '353535'
+black-hg = '5F5F5F'
+blue = '61564B'
+blue-hg = '696057'
+cursor = '9B9081'
+cyan = '435861'
+cyan-hg = '525F66'
+foreground = '9B9081'
+green = '6D6137'
+green-hg = '6F6749'
+magenta = '6B4A49'
+magenta-hg = '6F5A59'
+red = '744B40'
+red-hg = '785850'
+selection-background = '9B9081'
+selection-foreground = '181B20'
+white = 'B3B3B3'
+white-hg = 'CDCDCD'
+yellow = '765636'
+yellow-hg = '776049'

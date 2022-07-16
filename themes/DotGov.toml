@@ -1,0 +1,28 @@
+name = 'DotGov'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '252b35'
+black = '181818'
+black-hg = '181818'
+blue = '16b1df'
+blue-hg = '16b1df'
+cursor = 'd9002f'
+cyan = '8bd1ed'
+cyan-hg = '8bd1ed'
+foreground = 'eaeaea'
+green = '3d9751'
+green-hg = '3d9751'
+magenta = '772fb0'
+magenta-hg = '772fb0'
+red = 'bf081d'
+red-hg = 'bf081d'
+selection-background = '194080'
+selection-foreground = '252b35'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'f6bb33'
+yellow-hg = 'f6bb33'

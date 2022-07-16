@@ -1,0 +1,28 @@
+name = 'Piatto-Light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '414141'
+black-hg = '3e3e3e'
+blue = '3b5ea7'
+blue-hg = '3b5ea7'
+cursor = '5e76c7'
+cyan = '66781d'
+cyan-hg = '829428'
+foreground = '414141'
+green = '66781d'
+green-hg = '829428'
+magenta = 'a353b2'
+magenta-hg = 'a353b2'
+red = 'b23670'
+red-hg = 'da3365'
+selection-background = '6f6a4e'
+selection-foreground = 'ffffff'
+white = 'ffffff'
+white-hg = 'f1f1f1'
+yellow = 'cc6e33'
+yellow-hg = 'cc6e33'

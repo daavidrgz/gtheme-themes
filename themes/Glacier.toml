@@ -1,0 +1,28 @@
+name = 'Glacier'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '0c1115'
+black = '2e343c'
+black-hg = '404a55'
+blue = '1f5872'
+blue-hg = '2a8bc1'
+cursor = '6c6c6c'
+cyan = '778397'
+cyan-hg = 'a0b6d3'
+foreground = 'ffffff'
+green = '35a770'
+green-hg = '49e998'
+magenta = 'bd2523'
+magenta-hg = 'ea4727'
+red = 'bd0f2f'
+red-hg = 'bd0f2f'
+selection-background = 'bd2523'
+selection-foreground = '0c1115'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'fb9435'
+yellow-hg = 'fddf6e'

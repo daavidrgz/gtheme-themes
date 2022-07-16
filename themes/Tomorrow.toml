@@ -1,0 +1,28 @@
+name = 'Tomorrow'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '000000'
+black-hg = '000000'
+blue = '4170ae'
+blue-hg = '4170ae'
+cursor = '4c4c4c'
+cyan = '3d999f'
+cyan-hg = '3d999f'
+foreground = '4c4c4c'
+green = '708b00'
+green-hg = '708b00'
+magenta = '8958a7'
+magenta-hg = '8958a7'
+red = 'c82828'
+red-hg = 'c82828'
+selection-background = 'd6d6d6'
+selection-foreground = 'ffffff'
+white = 'fffefe'
+white-hg = 'fffefe'
+yellow = 'e9b600'
+yellow-hg = 'e9b600'

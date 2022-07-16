@@ -1,0 +1,28 @@
+name = 'Harper'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '716d69'
+blue = '489d48'
+blue-hg = '489d48'
+cursor = 'a7a39c'
+cyan = 'f4bed6'
+cyan-hg = 'f4bed6'
+foreground = 'a7a39c'
+green = '7fb5e1'
+green-hg = '7fb5e1'
+magenta = 'b295c5'
+magenta-hg = 'b295c5'
+red = 'f7b63e'
+red-hg = 'f7b63e'
+selection-background = '5a5753'
+selection-foreground = '000000'
+white = 'a7a39c'
+white-hg = 'fefbe9'
+yellow = 'd6da24'
+yellow-hg = 'd6da24'

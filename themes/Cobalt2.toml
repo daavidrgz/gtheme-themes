@@ -1,0 +1,28 @@
+name = 'Cobalt2'
+
+[extras]
+vscode = ['Cobalt2']
+wallpaper = ['']
+
+[colors]
+background = '193549'
+black = '000000'
+black-hg = '808080'
+blue = '9CF08D'
+blue-hg = '9CF08D'
+cursor = 'f0cb09'
+cyan = '9EFFFF'
+cyan-hg = '9EFFFF'
+foreground = 'ffffff'
+green = 'FF9D00'
+green-hg = 'FF9D00'
+magenta = 'FB94FF'
+magenta-hg = 'FB94FF'
+red = 'ff2600'
+red-hg = 'ff0000'
+selection-background = '1F4662'
+selection-foreground = '193549'
+white = 'c7c7c7'
+white-hg = 'ffffff'
+yellow = 'ffc600'
+yellow-hg = 'ffff00'

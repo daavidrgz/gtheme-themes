@@ -1,0 +1,28 @@
+name = 'The-Hulk'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1d1e'
+black = '1b1d1e'
+black-hg = '505354'
+blue = '2424f4'
+blue-hg = '4f6a95'
+cursor = '15b61a'
+cyan = '378ca9'
+cyan-hg = '3f85a5'
+foreground = 'b4b4b4'
+green = '13ce2f'
+green-hg = '48ff76'
+magenta = '641e73'
+magenta-hg = '72579d'
+red = '259d1a'
+red-hg = '8dff2a'
+selection-background = '4d4f4c'
+selection-foreground = '1b1d1e'
+white = 'd8d8d0'
+white-hg = 'e5e5e0'
+yellow = '62e456'
+yellow-hg = '3afe15'

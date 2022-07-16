@@ -1,0 +1,28 @@
+name = 'OceanicMaterial'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1c262b'
+black = '000000'
+black-hg = '767676'
+blue = '1d80ef'
+blue-hg = '53a4f3'
+cursor = 'b2b8c3'
+cyan = '16aec9'
+cyan-hg = '42c6d9'
+foreground = 'c1c8d6'
+green = '3fa33f'
+green-hg = '70be71'
+magenta = '8800a0'
+magenta-hg = 'a94dbb'
+red = 'ee2a29'
+red-hg = 'dc5b60'
+selection-background = '6dc1b8'
+selection-foreground = '1c262b'
+white = 'a4a4a4'
+white-hg = 'fffefe'
+yellow = 'fee92e'
+yellow-hg = 'fef063'

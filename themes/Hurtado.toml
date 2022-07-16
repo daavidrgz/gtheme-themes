@@ -1,0 +1,28 @@
+name = 'Hurtado'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '575757'
+black-hg = '252525'
+blue = '486387'
+blue-hg = '89bdff'
+cursor = 'bbbbbb'
+cyan = '85e9fe'
+cyan-hg = '85e9fe'
+foreground = 'dadbda'
+green = 'a5df55'
+green-hg = 'a5df55'
+magenta = 'fc5ef0'
+magenta-hg = 'bf00c0'
+red = 'ff1b00'
+red-hg = 'd41c00'
+selection-background = 'b4d5ff'
+selection-foreground = '000000'
+white = 'cbcbcb'
+white-hg = 'dbdbdb'
+yellow = 'fbe74a'
+yellow-hg = 'fbe749'

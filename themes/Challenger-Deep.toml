@@ -1,0 +1,28 @@
+name = 'Challenger-Deep'
+
+[extras]
+vscode = ['Challenger Deep']
+wallpaper = ['~/.config/gtheme/wallpapers/Challenger-Deep/lonely-fish.png']
+
+[colors]
+background = '1e1c31'
+black = '565575'
+black-hg = '565575'
+blue = '91ddff'
+blue-hg = '65b2ff'
+cursor = 'cbe3e7'
+cyan = 'aaffe4'
+cyan-hg = '63f2f1'
+foreground = 'cbe3e7'
+green = '95ffa4'
+green-hg = '62d196'
+magenta = 'c991e1'
+magenta-hg = '906cff'
+red = 'ff8080'
+red-hg = 'ff5458'
+selection-background = 'fbfcfc'
+selection-foreground = '1e1c31'
+white = 'cbe3e7'
+white-hg = 'a6b3cc'
+yellow = 'ffe9aa'
+yellow-hg = 'ffb378'

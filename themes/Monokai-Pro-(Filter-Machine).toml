@@ -1,0 +1,28 @@
+name = 'Monokai-Pro-(Filter-Machine)'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3a4449'
+black = '3a4449'
+black-hg = '6b7678'
+blue = 'ffb270'
+blue-hg = 'ffb270'
+cursor = 'f2fffc'
+cyan = '7cd5f1'
+cyan-hg = '7cd5f1'
+foreground = 'f2fffc'
+green = 'a2e57b'
+green-hg = 'a2e57b'
+magenta = 'baa0f8'
+magenta-hg = 'baa0f8'
+red = 'ff6d7e'
+red-hg = 'ff6d7e'
+selection-background = 'f2fffc'
+selection-foreground = '3a4449'
+white = 'f2fffc'
+white-hg = 'f2fffc'
+yellow = 'ffed72'
+yellow-hg = 'ffed72'

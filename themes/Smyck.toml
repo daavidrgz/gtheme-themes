@@ -1,0 +1,28 @@
+name = 'Smyck'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1b1b'
+black = '000000'
+black-hg = '7a7a7a'
+blue = '62a3c4'
+blue-hg = '8dcff0'
+cursor = 'bbbbbb'
+cyan = '207383'
+cyan-hg = '69d9cf'
+foreground = 'f7f7f7'
+green = '7da900'
+green-hg = 'c4f036'
+magenta = 'b98acc'
+magenta-hg = 'f799ff'
+red = 'b74131'
+red-hg = 'd6837b'
+selection-background = '207383'
+selection-foreground = '1b1b1b'
+white = 'a0a0a0'
+white-hg = 'f7f7f7'
+yellow = 'c4a400'
+yellow-hg = 'fee14d'

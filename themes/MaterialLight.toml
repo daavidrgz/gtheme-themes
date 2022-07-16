@@ -1,0 +1,28 @@
+name = 'MaterialLight'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'eaeaea'
+black = '212121'
+black-hg = '424242'
+blue = '134eb2'
+blue-hg = '53a4f3'
+cursor = '16aec9'
+cyan = '0e707c'
+cyan-hg = '26bad1'
+foreground = '222221'
+green = '457b23'
+green-hg = '7aba39'
+magenta = '550087'
+magenta-hg = 'a94dbb'
+red = 'b7141e'
+red-hg = 'e83a3f'
+selection-background = 'c1c1c1'
+selection-foreground = 'eaeaea'
+white = 'eeeeee'
+white-hg = 'd8d8d8'
+yellow = 'f5971d'
+yellow-hg = 'fee92e'

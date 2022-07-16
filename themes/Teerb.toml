@@ -1,0 +1,28 @@
+name = 'Teerb'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '262626'
+black = '1c1c1c'
+black-hg = '1c1c1c'
+blue = '86aed6'
+blue-hg = '86aed6'
+cursor = 'e3c8ae'
+cyan = '8adbb4'
+cyan-hg = 'b1e7dd'
+foreground = 'd0d0d0'
+green = 'aed686'
+green-hg = 'aed686'
+magenta = 'd6aed6'
+magenta-hg = 'd6aed6'
+red = 'd68686'
+red-hg = 'd68686'
+selection-background = '4d4d4d'
+selection-foreground = '262626'
+white = 'd0d0d0'
+white-hg = 'efefef'
+yellow = 'd7af87'
+yellow-hg = 'e4c9af'

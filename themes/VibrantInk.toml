@@ -1,0 +1,28 @@
+name = 'VibrantInk'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '868686'
+black-hg = '545454'
+blue = '44b3cc'
+blue-hg = '0000ff'
+cursor = 'ffffff'
+cyan = '44b3cc'
+cyan-hg = '00ffff'
+foreground = 'ffffff'
+green = 'ccff04'
+green-hg = '00ff00'
+magenta = '9933cc'
+magenta-hg = 'ff00ff'
+red = 'ff6600'
+red-hg = 'ff0000'
+selection-background = 'b4d5ff'
+selection-foreground = '000000'
+white = 'f4f4f4'
+white-hg = 'e5e5e5'
+yellow = 'ffcc00'
+yellow-hg = 'ffff00'

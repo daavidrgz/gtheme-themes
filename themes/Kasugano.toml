@@ -1,0 +1,28 @@
+name = 'Kasugano'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '1b1b1b'
+black = '3D3D3D'
+black-hg = '4D4D4D'
+blue = '31658C'
+blue-hg = '477AB3'
+cursor = 'ffffff'
+cyan = '8292B2'
+cyan-hg = '95A7CC'
+foreground = 'ffffff'
+green = '3EA290'
+green-hg = '52AD91'
+magenta = '596196'
+magenta-hg = '7882BF'
+red = '6673BF'
+red-hg = '899AFF'
+selection-background = 'ffffff'
+selection-foreground = '1b1b1b'
+white = 'C8CACC'
+white-hg = 'EDEFF2'
+yellow = 'B0EAD9'
+yellow-hg = '98C9BB'

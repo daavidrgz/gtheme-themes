@@ -1,0 +1,28 @@
+name = 'Epiphany'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '565656'
+black-hg = '656565'
+blue = '677088'
+blue-hg = '647396'
+cursor = 'ffffff'
+cyan = '445362'
+cyan-hg = '505b6c'
+foreground = 'ffffff'
+green = '88ab77'
+green-hg = '8ccd6c'
+magenta = 'cdcdb4'
+magenta-hg = 'cdb4c9'
+red = 'ac4f4f'
+red-hg = 'e85555'
+selection-background = 'ffffff'
+selection-foreground = '000000'
+white = 'ffffff'
+white-hg = 'c0c0c0'
+yellow = 'd0d9ad'
+yellow-hg = 'c5d67d'

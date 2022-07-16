@@ -1,0 +1,28 @@
+name = 'Red-Alert'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '762423'
+black = '000000'
+black-hg = '262626'
+blue = '479bed'
+blue-hg = '65a9f0'
+cursor = 'ffffff'
+cyan = '6bbeb8'
+cyan-hg = 'b7dfdd'
+foreground = 'ffffff'
+green = '71be6b'
+green-hg = 'aff08b'
+magenta = 'e878d6'
+magenta-hg = 'ddb7df'
+red = 'd52e4d'
+red-hg = 'e02453'
+selection-background = '073642'
+selection-foreground = '762423'
+white = 'd6d6d6'
+white-hg = 'ffffff'
+yellow = 'beb86b'
+yellow-hg = 'dfddb7'

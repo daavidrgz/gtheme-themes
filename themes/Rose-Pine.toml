@@ -1,0 +1,28 @@
+name = 'Rose-Pine'
+
+[extras]
+vscode = ['Rosé Pine']
+wallpaper = ['~/.config/gtheme/wallpapers/Rose-Pine/beachhouses.jpg']
+
+[colors]
+background = '191724'
+black = '26233a'
+black-hg = '6e6a86'
+blue = '9ccfd8'
+blue-hg = '9ccfd8'
+cursor = '555169'
+cyan = 'ebbcba'
+cyan-hg = 'ebbcba'
+foreground = 'e0def4'
+green = '31748f'
+green-hg = '31748f'
+magenta = 'c4a7e7'
+magenta-hg = 'c4a7e7'
+red = 'eb6f92'
+red-hg = 'eb6f92'
+selection-background = '2a2837'
+selection-foreground = 'e0def4'
+white = 'e0def4'
+white-hg = 'e0def4'
+yellow = 'f6c177'
+yellow-hg = 'f6c177'

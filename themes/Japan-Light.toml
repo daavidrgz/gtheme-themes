@@ -1,0 +1,28 @@
+name = 'Japan-Light'
+
+[extras]
+vscode = ['Rosé Pine Dawn']
+wallpaper = ['~/.config/gtheme/wallpapers/Japan/8bit-city.png']
+
+[colors]
+background = 'faf4ed'
+black = '3D495B'
+black-hg = '3D495B'
+blue = '7479a6'
+blue-hg = '7479a6'
+cursor = '3D495B'
+cyan = 'a3b1cc'
+cyan-hg = 'a3b1cc'
+foreground = '3D495B'
+green = '80c28f'
+green-hg = '80c28f'
+magenta = 'EBBDCB'
+magenta-hg = 'EBBDCB'
+red = 'F7AA9D'
+red-hg = 'F7AA9D'
+selection-background = '3D495B'
+selection-foreground = 'faf4ed'
+white = '3D495B'
+white-hg = '3D495B'
+yellow = 'e6db87'
+yellow-hg = 'e6db87'

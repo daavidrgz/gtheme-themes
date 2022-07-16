@@ -1,0 +1,28 @@
+name = 'Seoul256'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3a3a3a'
+black = '4e4e4e'
+black-hg = '626262'
+blue = '85add4'
+blue-hg = 'add4fb'
+cursor = 'd0d0d0'
+cyan = '87afaf'
+cyan-hg = '87d7d7'
+foreground = 'd0d0d0'
+green = '5f865f'
+green-hg = '87af87'
+magenta = 'd7afaf'
+magenta-hg = 'ffafaf'
+red = 'd68787'
+red-hg = 'd75f87'
+selection-background = 'd0d0d0'
+selection-foreground = '3a3a3a'
+white = 'd0d0d0'
+white-hg = 'e4e4e4'
+yellow = 'd8af5f'
+yellow-hg = 'ffd787'

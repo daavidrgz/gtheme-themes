@@ -1,0 +1,28 @@
+name = 'Twilight'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '141414'
+black = '141414'
+black-hg = '262626'
+blue = '444649'
+blue-hg = '5a5d61'
+cursor = 'ffffff'
+cyan = '778284'
+cyan-hg = '8a989a'
+foreground = 'feffd3'
+green = 'afb979'
+green-hg = 'cbd88c'
+magenta = 'b4be7b'
+magenta-hg = 'd0db8e'
+red = 'c06c43'
+red-hg = 'dd7c4c'
+selection-background = '303030'
+selection-foreground = '141414'
+white = 'feffd3'
+white-hg = 'feffd3'
+yellow = 'c2a86c'
+yellow-hg = 'e1c47d'

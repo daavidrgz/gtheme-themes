@@ -1,0 +1,28 @@
+name = 'Snazzy'
+
+[extras]
+vscode = ['Night Owl']
+wallpaper = ['~/.config/gtheme/wallpapers/Snazzy/sunset-mountain.jpg']
+
+[colors]
+background = '112031'
+black = '112031'
+black-hg = '686868'
+blue = '57C7FF'
+blue-hg = '57C7FF'
+cursor = '97979B'
+cyan = '9AEDFE'
+cyan-hg = '9AEDFE'
+foreground = 'F1F1F0'
+green = '5AF78E'
+green-hg = '5AF78E'
+magenta = 'FF6AC1'
+magenta-hg = 'FF6AC1'
+red = 'FF5C57'
+red-hg = 'FF5C57'
+selection-background = 'FFFACD'
+selection-foreground = '000000'
+white = 'F1F1F0'
+white-hg = 'F1F1F0'
+yellow = 'F3F99D'
+yellow-hg = 'F3F99D'

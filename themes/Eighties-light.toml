@@ -1,0 +1,28 @@
+name = 'Eighties-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'f2f0ec'
+black = '2d2d2d'
+black-hg = '747369'
+blue = '6699cc'
+blue-hg = '6699cc'
+cursor = '515151'
+cyan = '66cccc'
+cyan-hg = '66cccc'
+foreground = '515151'
+green = '99cc99'
+green-hg = '99cc99'
+magenta = 'cc99cc'
+magenta-hg = 'cc99cc'
+red = 'f2777a'
+red-hg = 'f2777a'
+selection-background = '515151'
+selection-foreground = 'f2f0ec'
+white = 'd3d0c8'
+white-hg = 'f2f0ec'
+yellow = 'ffcc66'
+yellow-hg = 'ffcc66'

@@ -1,0 +1,28 @@
+name = 'Marrakesh-dark'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '201602'
+black = '201602'
+black-hg = '6c6823'
+blue = '477ca1'
+blue-hg = '477ca1'
+cursor = '948e48'
+cyan = '75a738'
+cyan-hg = '75a738'
+foreground = '948e48'
+green = '18974e'
+green-hg = '18974e'
+magenta = '8868b3'
+magenta-hg = '8868b3'
+red = 'c35359'
+red-hg = 'c35359'
+selection-background = '948e48'
+selection-foreground = '201602'
+white = '948e48'
+white-hg = 'faf0a5'
+yellow = 'a88339'
+yellow-hg = 'a88339'

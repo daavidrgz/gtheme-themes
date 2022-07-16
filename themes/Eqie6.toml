@@ -1,0 +1,28 @@
+name = 'Eqie6'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '111111'
+black = '222222'
+black-hg = '666666'
+blue = '66a9b9'
+blue-hg = 'aaccbb'
+cursor = 'cccccc'
+cyan = '6d878d'
+cyan-hg = '42717b'
+foreground = 'cccccc'
+green = 'b7ce42'
+green-hg = 'bde077'
+magenta = 'b7416e'
+magenta-hg = 'e16a98'
+red = 'e84f4f'
+red-hg = 'd23d3d'
+selection-background = 'cccccc'
+selection-foreground = '111111'
+white = 'cccccc'
+white-hg = 'ffffff'
+yellow = 'fea63c'
+yellow-hg = 'ffe863'

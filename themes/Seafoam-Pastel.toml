@@ -1,0 +1,28 @@
+name = 'Seafoam-Pastel'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '243335'
+black = '747474'
+black-hg = '8a8a8a'
+blue = '4c7b82'
+blue-hg = '79c3cf'
+cursor = '576379'
+cyan = '719494'
+cyan-hg = 'acdfdf'
+foreground = 'd3e6d3'
+green = '718b62'
+green-hg = '98d9aa'
+magenta = '8a7166'
+magenta-hg = 'd6b2a0'
+red = '825d4c'
+red-hg = 'cf9279'
+selection-background = 'ffffff'
+selection-foreground = '243335'
+white = 'dfdfdf'
+white-hg = 'dfdfdf'
+yellow = 'aca06d'
+yellow-hg = 'fae69c'

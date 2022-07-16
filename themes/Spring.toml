@@ -1,0 +1,28 @@
+name = 'Spring'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'ffffff'
+black = '000000'
+black-hg = '000000'
+blue = '1cd2ee'
+blue-hg = '15a9fd'
+cursor = '4d4d4c'
+cyan = '3e999f'
+cyan-hg = '3e999f'
+foreground = '4d4d4c'
+green = '1f8c3a'
+green-hg = '1fc231'
+magenta = '8959a8'
+magenta-hg = '8959a8'
+red = 'ff4c83'
+red-hg = 'ff0021'
+selection-background = 'd6d6d6'
+selection-foreground = 'ffffff'
+white = 'fffefe'
+white-hg = 'fffefe'
+yellow = '1fc95a'
+yellow-hg = 'd4b706'

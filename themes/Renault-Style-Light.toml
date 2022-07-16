@@ -1,0 +1,28 @@
+name = 'Renault-Style-Light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '3a3a3a'
+black = '000000'
+black-hg = '323232'
+blue = '46657d'
+blue-hg = '9fcef0'
+cursor = '7f7f7f'
+cyan = '87c1f1'
+cyan-hg = 'a4d4f8'
+foreground = 'e9cb7b'
+green = '509f50'
+green-hg = '83d082'
+magenta = 'cfcfff'
+magenta-hg = 'ffffff'
+red = 'da4839'
+red-hg = 'ff7b6a'
+selection-background = '958553'
+selection-foreground = '3a3a3a'
+white = 'ffffff'
+white-hg = 'ffffff'
+yellow = 'ffd249'
+yellow-hg = 'ffff7b'

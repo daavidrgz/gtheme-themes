@@ -1,0 +1,28 @@
+name = 'Grandshell'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '000000'
+black-hg = '222222'
+blue = '5555dd'
+blue-hg = 'b2baf6'
+cursor = 'bebebe'
+cyan = '5af2ee'
+cyan-hg = '5af2ee'
+foreground = 'bebebe'
+green = '77bb33'
+green-hg = 'dcf692'
+magenta = 'c350ff'
+magenta-hg = 'f09fff'
+red = 'f25a5a'
+red-hg = 'ffbbbb'
+selection-background = 'bebebe'
+selection-foreground = '000000'
+white = 'bebebe'
+white-hg = 'eeeeee'
+yellow = 'efc334'
+yellow-hg = 'f6df92'

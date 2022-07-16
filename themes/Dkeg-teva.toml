@@ -1,0 +1,28 @@
+name = 'Dkeg-teva'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '170f0d'
+black = '191f31'
+black-hg = '706d56'
+blue = '3c4435'
+blue-hg = '948658'
+cursor = '746c48'
+cyan = '5d5d35'
+cyan-hg = 'ad9152'
+foreground = '746c48'
+green = '303844'
+green-hg = '909581'
+magenta = '4e534f'
+magenta-hg = 'a19662'
+red = '282e39'
+red-hg = '8b7852'
+selection-background = '746c48'
+selection-foreground = '170f0d'
+white = '66695d'
+white-hg = 'c6a13f'
+yellow = '3b444a'
+yellow-hg = '91703a'

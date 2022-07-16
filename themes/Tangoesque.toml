@@ -1,0 +1,28 @@
+name = 'Tangoesque'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '000000'
+black = '202020'
+black-hg = '606060'
+blue = '204a87'
+blue-hg = '3465a4'
+cursor = 'aaaaaa'
+cyan = '89b6e2'
+cyan-hg = '46a4ff'
+foreground = 'aaaaaa'
+green = '93d44f'
+green-hg = 'c8e7a8'
+magenta = 'ce5c00'
+magenta-hg = 'f57900'
+red = 'ff6565'
+red-hg = 'ff8d8d'
+selection-background = 'aaaaaa'
+selection-foreground = '000000'
+white = 'cccccc'
+white-hg = 'ffffff'
+yellow = 'eab93d'
+yellow-hg = 'ffc123'

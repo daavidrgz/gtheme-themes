@@ -1,0 +1,28 @@
+name = 'Paraiso-light'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = 'e7e9db'
+black = '2f1e2e'
+black-hg = '776e71'
+blue = '06b6ef'
+blue-hg = '06b6ef'
+cursor = '4f424c'
+cyan = '5bc4bf'
+cyan-hg = '5bc4bf'
+foreground = '4f424c'
+green = '48b685'
+green-hg = '48b685'
+magenta = '815ba4'
+magenta-hg = '815ba4'
+red = 'ef6155'
+red-hg = 'ef6155'
+selection-background = '4f424c'
+selection-foreground = 'e7e9db'
+white = 'a39e9b'
+white-hg = 'e7e9db'
+yellow = 'fec418'
+yellow-hg = 'fec418'

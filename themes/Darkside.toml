@@ -1,0 +1,28 @@
+name = 'Darkside'
+
+[extras]
+vscode = ['']
+wallpaper = ['']
+
+[colors]
+background = '222324'
+black = '000000'
+black-hg = '666666'
+blue = '1C98E8'
+blue-hg = '387CD3'
+cursor = 'BABABA'
+cyan = '1C98E8'
+cyan-hg = '3D97E2'
+foreground = 'BABABA'
+green = '68C256'
+green-hg = '77B869'
+magenta = '8E69C9'
+magenta-hg = '957BBE'
+red = 'E8341C'
+red-hg = 'E05A4F'
+selection-background = 'BABABA'
+selection-foreground = '222324'
+white = 'BABABA'
+white-hg = 'BABABA'
+yellow = 'F2D42C'
+yellow-hg = 'EFD64B'

@@ -1,0 +1,29 @@
+name = 'Dune'
+
+[extras]
+intellij-idea = ['Nord']
+vscode = ['Nord']
+wallpaper = ['~/.config/gtheme/wallpapers/Mac/mac-dune.jpg']
+
+[colors]
+background = '242A38'
+black = '3b4252'
+black-hg = '4c566a'
+blue = '617192'
+blue-hg = '617192'
+cursor = 'E7CDBF'
+cyan = 'A7ADBC'
+cyan-hg = 'A7ADBC'
+foreground = 'E7CDBF'
+green = 'C7AAA8'
+green-hg = 'C7AAA8'
+magenta = '48414D'
+magenta-hg = '48414D'
+red = 'a64955'
+red-hg = 'a64955'
+selection-background = 'e5e8f0'
+selection-foreground = '242A38'
+white = 'e5e8f0'
+white-hg = 'eceff4'
+yellow = 'CC8D46'
+yellow-hg = 'CC8D46'

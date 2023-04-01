@@ -3,7 +3,7 @@ name = 'Tokyo-Night'
 [extras]
 intellij-idea = ['']
 vscode = ['Tokyo Night']
-wallpaper = ['~/.config/gtheme/wallpapers/abstract-brush.jpg']
+wallpaper = ['~/.config/gtheme/wallpapers/Tokyo-Night/chicago.jpg']
 
 [colors]
 background = '1a1b26'

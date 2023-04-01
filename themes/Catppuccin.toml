@@ -1,8 +1,8 @@
 name = 'Catppuccin'
 
 [extras]
-vscode = ['Catppuccin']
-wallpaper = ['~/.config/gtheme/wallpapers/Catppuccin/cat-waves.png']
+vscode = ['Catppuccin Mocha']
+wallpaper = ['~/.config/gtheme/wallpapers/Catppuccin/evening-sky.png']
 
 [colors]
 background = '1E1E2E'

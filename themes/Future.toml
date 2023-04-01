@@ -2,7 +2,7 @@ name = 'Future'
 
 [extras]
 vscode = ['Ayu Dark Bordered']
-wallpaper = ['~/.config/gtheme/wallpapers/Future/sand-sea.jpg']
+wallpaper = ['~/.config/gtheme/wallpapers/Future/construct.jpg']
 
 [colors]
 background = '10151B'
